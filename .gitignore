@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+project/data/mysql/
+project/data/raw/aclImdb_v1.tar.gz
+project/data/results/*.joblib
+project/data/raw/*/box_office.html
+project/data/raw/*/search.json
+project/data/raw/*/comments.jsonl
+project/data/raw/*/collection_state.json
+project/data/imdb.csv.gz
+project/data/results/*.log
+.venv

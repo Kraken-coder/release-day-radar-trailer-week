@@ -1,0 +1,70 @@
+table,field,measurement_type,representation,dtype
+films,film_id,nominal,structured configuration and HTML extraction,object
+films,title,nominal,structured configuration and HTML extraction,str
+films,language,nominal,structured configuration and HTML extraction,str
+films,release_date,continuous,structured configuration and HTML extraction,datetime64[us]
+films,wikipedia_url,nominal,structured configuration and HTML extraction,str
+films,video_id,nominal,structured configuration and HTML extraction,string
+films,channel,nominal,structured configuration and HTML extraction,str
+films,trailer_date,continuous,structured configuration and HTML extraction,str
+films,box_office_url,nominal,structured configuration and HTML extraction,str
+films,selection_reason,nominal,structured configuration and HTML extraction,str
+films,release_at,continuous,structured configuration and HTML extraction,"datetime64[us, UTC]"
+films,runtime_raw,continuous (encoded as source text),structured configuration and HTML extraction,str
+films,budget_raw,continuous (encoded as source text),structured configuration and HTML extraction,str
+films,wiki_language,nominal,structured configuration and HTML extraction,str
+films,runtime_minutes,continuous,structured configuration and HTML extraction,int64
+videos,film_id,nominal,semi-structured JSON flattened,str
+videos,video_id,nominal,semi-structured JSON flattened,str
+videos,video_title,nominal,semi-structured JSON flattened,str
+videos,trailer_at,continuous,semi-structured JSON flattened,"datetime64[us, UTC]"
+videos,current_views,discrete,semi-structured JSON flattened,Int64
+videos,current_likes,discrete,semi-structured JSON flattened,Int64
+comments,comment_id,nominal,semi-structured JSON flattened,str
+comments,published_at,continuous,semi-structured JSON flattened,"datetime64[us, UTC]"
+comments,updated_at,continuous,semi-structured JSON flattened,"datetime64[us, UTC]"
+comments,film_id,nominal,semi-structured JSON flattened,str
+comments,text_clean,nominal,unstructured,str
+comments,trailer_at,continuous,semi-structured JSON flattened,"datetime64[us, UTC]"
+comments,days_from_trailer,continuous,semi-structured JSON flattened,float64
+comments,in_trailer_week,nominal,semi-structured JSON flattened,bool
+comments,word_count,discrete,semi-structured JSON flattened,int64
+daily_collections,film_id,nominal,structured HTML table,str
+daily_collections,day,discrete,structured HTML table,int64
+daily_collections,date,continuous,structured HTML table,datetime64[us]
+daily_collections,india_net_raw,continuous (encoded as source text),structured HTML table,str
+daily_collections,source_url,nominal,structured HTML table,str
+daily_collections,india_net_cr,continuous,structured HTML table,float64
+model_data,film_id,nominal,structured derived features,object
+model_data,title,nominal,structured derived features,str
+model_data,language,nominal,structured derived features,str
+model_data,release_date,continuous,structured derived features,datetime64[us]
+model_data,wikipedia_url,nominal,structured derived features,str
+model_data,video_id,nominal,structured derived features,object
+model_data,channel,nominal,structured derived features,str
+model_data,trailer_date,continuous,structured derived features,str
+model_data,box_office_url,nominal,structured derived features,str
+model_data,selection_reason,nominal,structured derived features,str
+model_data,release_at,continuous,structured derived features,"datetime64[us, UTC]"
+model_data,runtime_raw,continuous (encoded as source text),structured derived features,str
+model_data,budget_raw,continuous (encoded as source text),structured derived features,str
+model_data,wiki_language,nominal,structured derived features,str
+model_data,runtime_minutes,continuous,structured derived features,int64
+model_data,video_title,nominal,structured derived features,str
+model_data,trailer_at,continuous,structured derived features,"datetime64[us, UTC]"
+model_data,current_views,discrete,structured derived features,Int64
+model_data,current_likes,discrete,structured derived features,Int64
+model_data,history_complete,nominal,structured derived features,bool
+model_data,pages,discrete,structured derived features,int64
+model_data,collected_at,continuous,structured derived features,str
+model_data,trailer_week_comments,discrete,structured derived features,float64
+model_data,first_day_comments,discrete,structured derived features,float64
+model_data,target_days,discrete,structured derived features,int64
+model_data,opening_weekend_cr,continuous,structured derived features,float64
+model_data,trailer_week_end,continuous,structured derived features,"datetime64[us, UTC]"
+model_data,lead_days,continuous,structured derived features,float64
+model_data,reason,nominal,structured derived features,str
+model_data,eligible,nominal,structured derived features,bool
+model_data,group,nominal,structured derived features,str
+model_data,hindi,nominal (binary group),structured derived features,int64
+model_data,log_comments,continuous,structured derived features,float64

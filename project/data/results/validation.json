@@ -1,0 +1,15 @@
+{
+  "candidate_films": 16,
+  "eligible_films": 15,
+  "training_films": 11,
+  "forward_test_films": 4,
+  "raw_comments": 305447,
+  "unique_comment_events": 305444,
+  "trailer_week_comments": 239313,
+  "spark_rows_processed": 355444,
+  "sql_queries_passed": 7,
+  "sql_comment_counts_match_pandas": true,
+  "temporal_leakage_checks_passed": true,
+  "notebook_code_cells_executed": 7,
+  "figures": 5
+}

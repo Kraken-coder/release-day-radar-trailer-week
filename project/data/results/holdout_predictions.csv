@@ -1,0 +1,17 @@
+film_id,title,group,release_date,opening_weekend_cr,outside_training_comment_range,model,predicted_cr
+madharaasi,Madharaasi,Regional,2025-09-05,37.15,True,Training median,36.35
+jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Training median,36.35
+dude,Dude,Regional,2025-10-17,30.75,False,Training median,36.35
+dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Training median,36.35
+madharaasi,Madharaasi,Regional,2025-09-05,37.15,True,Language only,28.51030308692682
+jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Language only,49.36487594598818
+dude,Dude,Regional,2025-10-17,30.75,False,Language only,28.51030308692682
+dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Language only,49.36487594598818
+madharaasi,Madharaasi,Regional,2025-09-05,37.15,True,Comments only,1.1245312465851016
+jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Comments only,32.166535067217204
+dude,Dude,Regional,2025-10-17,30.75,False,Comments only,18.693900736006153
+dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Comments only,70.94583057636565
+madharaasi,Madharaasi,Regional,2025-09-05,37.15,True,Language + comments,1.1597653538256736
+jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Language + comments,33.40499668092654
+dude,Dude,Regional,2025-10-17,30.75,False,Language + comments,18.1785498112833
+dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Language + comments,72.52551739927762

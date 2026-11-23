@@ -1,0 +1,993 @@
+film_id,day,date,india_net_raw,source_url,india_net_cr
+chhaava,1,2025-02-14,₹31.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,31.0
+chhaava,2,2025-02-15,₹37.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,37.0
+chhaava,3,2025-02-16,₹48.50 Cr,https://www.sacnilk.com/movie/Chaava_2024,48.5
+chhaava,4,2025-02-17,₹24.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,24.0
+chhaava,5,2025-02-18,₹25.25 Cr,https://www.sacnilk.com/movie/Chaava_2024,25.25
+chhaava,6,2025-02-19,₹32.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,32.0
+chhaava,7,2025-02-20,₹21.50 Cr,https://www.sacnilk.com/movie/Chaava_2024,21.5
+chhaava,8,2025-02-21,₹23.50 Cr,https://www.sacnilk.com/movie/Chaava_2024,23.5
+chhaava,9,2025-02-22,₹44.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,44.0
+chhaava,10,2025-02-23,₹40.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,40.0
+chhaava,11,2025-02-24,₹18.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,18.0
+chhaava,12,2025-02-25,₹18.50 Cr,https://www.sacnilk.com/movie/Chaava_2024,18.5
+chhaava,13,2025-02-26,₹23.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,23.0
+chhaava,14,2025-02-27,₹13.25 Cr,https://www.sacnilk.com/movie/Chaava_2024,13.25
+chhaava,15,2025-02-28,₹13.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,13.0
+chhaava,16,2025-03-01,₹22.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,22.0
+chhaava,17,2025-03-02,₹24.25 Cr,https://www.sacnilk.com/movie/Chaava_2024,24.25
+chhaava,18,2025-03-03,₹7.75 Cr,https://www.sacnilk.com/movie/Chaava_2024,7.75
+chhaava,19,2025-03-04,₹5.40 Cr,https://www.sacnilk.com/movie/Chaava_2024,5.4
+chhaava,20,2025-03-05,₹6.15 Cr,https://www.sacnilk.com/movie/Chaava_2024,6.15
+chhaava,21,2025-03-06,₹5.50 Cr,https://www.sacnilk.com/movie/Chaava_2024,5.5
+chhaava,22,2025-03-07,₹8.75 Cr,https://www.sacnilk.com/movie/Chaava_2024,8.75
+chhaava,23,2025-03-08,₹16.75 Cr,https://www.sacnilk.com/movie/Chaava_2024,16.75
+chhaava,24,2025-03-09,₹10.75 Cr,https://www.sacnilk.com/movie/Chaava_2024,10.75
+chhaava,25,2025-03-10,₹5.25 Cr,https://www.sacnilk.com/movie/Chaava_2024,5.25
+chhaava,26,2025-03-11,₹5.15 Cr,https://www.sacnilk.com/movie/Chaava_2024,5.15
+chhaava,27,2025-03-12,₹4.80 Cr,https://www.sacnilk.com/movie/Chaava_2024,4.8
+chhaava,28,2025-03-13,₹4.50 Cr,https://www.sacnilk.com/movie/Chaava_2024,4.5
+chhaava,29,2025-03-14,₹7.25 Cr,https://www.sacnilk.com/movie/Chaava_2024,7.25
+chhaava,30,2025-03-15,₹7.90 Cr,https://www.sacnilk.com/movie/Chaava_2024,7.9
+chhaava,31,2025-03-16,₹8.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,8.0
+chhaava,32,2025-03-17,₹2.65 Cr,https://www.sacnilk.com/movie/Chaava_2024,2.65
+chhaava,33,2025-03-18,₹2.65 Cr,https://www.sacnilk.com/movie/Chaava_2024,2.65
+chhaava,34,2025-03-19,₹2.65 Cr,https://www.sacnilk.com/movie/Chaava_2024,2.65
+chhaava,35,2025-03-20,₹2.25 Cr,https://www.sacnilk.com/movie/Chaava_2024,2.25
+chhaava,36,2025-03-21,₹2.10 Cr,https://www.sacnilk.com/movie/Chaava_2024,2.1
+chhaava,37,2025-03-22,₹3.65 Cr,https://www.sacnilk.com/movie/Chaava_2024,3.65
+chhaava,38,2025-03-23,₹4.65 Cr,https://www.sacnilk.com/movie/Chaava_2024,4.65
+chhaava,39,2025-03-24,₹1.60 Cr,https://www.sacnilk.com/movie/Chaava_2024,1.6
+chhaava,40,2025-03-25,₹1.50 Cr,https://www.sacnilk.com/movie/Chaava_2024,1.5
+chhaava,41,2025-03-26,₹1.40 Cr,https://www.sacnilk.com/movie/Chaava_2024,1.4
+chhaava,42,2025-03-27,₹1.40 Cr,https://www.sacnilk.com/movie/Chaava_2024,1.4
+chhaava,43,2025-03-28,₹1.15 Cr,https://www.sacnilk.com/movie/Chaava_2024,1.15
+chhaava,44,2025-03-29,₹2.00 Cr,https://www.sacnilk.com/movie/Chaava_2024,2.0
+chhaava,45,2025-03-30,₹1.15 Cr,https://www.sacnilk.com/movie/Chaava_2024,1.15
+chhaava,46,2025-03-31,₹90 L,https://www.sacnilk.com/movie/Chaava_2024,0.9
+chhaava,47,2025-04-01,₹55 L,https://www.sacnilk.com/movie/Chaava_2024,0.55
+chhaava,48,2025-04-02,₹40 L,https://www.sacnilk.com/movie/Chaava_2024,0.4
+chhaava,49,2025-04-03,₹40 L,https://www.sacnilk.com/movie/Chaava_2024,0.4
+chhaava,50,2025-04-04,₹55 L,https://www.sacnilk.com/movie/Chaava_2024,0.55
+chhaava,51,2025-04-05,₹95 L,https://www.sacnilk.com/movie/Chaava_2024,0.95
+chhaava,52,2025-04-06,₹1.25 Cr,https://www.sacnilk.com/movie/Chaava_2024,1.25
+chhaava,53,2025-04-07,₹35 L,https://www.sacnilk.com/movie/Chaava_2024,0.35
+chhaava,54,2025-04-08,₹40 L,https://www.sacnilk.com/movie/Chaava_2024,0.4
+chhaava,55,2025-04-09,₹35 L,https://www.sacnilk.com/movie/Chaava_2024,0.35
+chhaava,56,2025-04-10,₹25 L,https://www.sacnilk.com/movie/Chaava_2024,0.25
+chhaava,57,2025-04-11,₹15 L,https://www.sacnilk.com/movie/Chaava_2024,0.15
+chhaava,58,2025-04-12,₹25 L,https://www.sacnilk.com/movie/Chaava_2024,0.25
+chhaava,59,2025-04-13,₹40 L,https://www.sacnilk.com/movie/Chaava_2024,0.4
+chhaava,60,2025-04-14,₹20 L,https://www.sacnilk.com/movie/Chaava_2024,0.2
+chhaava,61,2025-04-15,₹10 L,https://www.sacnilk.com/movie/Chaava_2024,0.1
+chhaava,62,2025-04-16,₹8 L,https://www.sacnilk.com/movie/Chaava_2024,0.08
+chhaava,63,2025-04-17,₹7 L,https://www.sacnilk.com/movie/Chaava_2024,0.07
+chhaava,64,2025-04-18,₹7 L,https://www.sacnilk.com/movie/Chaava_2024,0.07
+chhaava,65,2025-04-19,₹8 L,https://www.sacnilk.com/movie/Chaava_2024,0.08
+chhaava,66,2025-04-20,₹10 L,https://www.sacnilk.com/movie/Chaava_2024,0.1
+chhaava,67,2025-04-21,₹4 L,https://www.sacnilk.com/movie/Chaava_2024,0.04
+chhaava,68,2025-04-22,₹5 L,https://www.sacnilk.com/movie/Chaava_2024,0.05
+chhaava,69,2025-04-23,₹6 L,https://www.sacnilk.com/movie/Chaava_2024,0.06
+chhaava,70,2025-04-24,₹4 L,https://www.sacnilk.com/movie/Chaava_2024,0.04
+chhaava,71,2025-04-25,₹1 L,https://www.sacnilk.com/movie/Chaava_2024,0.01
+chhaava,72,2025-04-26,₹2 L,https://www.sacnilk.com/movie/Chaava_2024,0.02
+chhaava,73,2025-04-27,₹2 L,https://www.sacnilk.com/movie/Chaava_2024,0.02
+chhaava,74,2025-04-28,₹1 L,https://www.sacnilk.com/movie/Chaava_2024,0.01
+chhaava,75,2025-04-29,₹1 L,https://www.sacnilk.com/movie/Chaava_2024,0.01
+chhaava,76,2025-04-30,₹1 L,https://www.sacnilk.com/movie/Chaava_2024,0.01
+chhaava,77,2025-05-01,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,78,2025-05-02,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,79,2025-05-03,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,82,2025-05-06,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,83,2025-05-07,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,84,2025-05-08,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,85,2025-05-09,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,86,2025-05-10,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,87,2025-05-11,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,88,2025-05-12,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,89,2025-05-13,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,90,2025-05-14,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,92,2025-05-16,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,93,2025-05-17,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,94,2025-05-18,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,97,2025-05-21,—,https://www.sacnilk.com/movie/Chaava_2024,
+chhaava,98,2025-05-22,—,https://www.sacnilk.com/movie/Chaava_2024,
+housefull_5,1,2025-06-06,₹24.00 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,24.0
+housefull_5,2,2025-06-07,₹31.00 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,31.0
+housefull_5,3,2025-06-08,₹32.50 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,32.5
+housefull_5,4,2025-06-09,₹13.00 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,13.0
+housefull_5,5,2025-06-10,₹11.25 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,11.25
+housefull_5,6,2025-06-11,₹8.50 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,8.5
+housefull_5,7,2025-06-12,₹7.00 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,7.0
+housefull_5,8,2025-06-13,₹6.00 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,6.0
+housefull_5,9,2025-06-14,₹9.50 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,9.5
+housefull_5,10,2025-06-15,₹11.50 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,11.5
+housefull_5,11,2025-06-16,₹3.75 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,3.75
+housefull_5,12,2025-06-17,₹4.25 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,4.25
+housefull_5,13,2025-06-18,₹3.00 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,3.0
+housefull_5,14,2025-06-19,₹2.85 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,2.85
+housefull_5,15,2025-06-20,₹2.00 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,2.0
+housefull_5,16,2025-06-21,₹2.50 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,2.5
+housefull_5,17,2025-06-22,₹3.50 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,3.5
+housefull_5,18,2025-06-23,₹1.15 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,1.15
+housefull_5,19,2025-06-24,₹1.50 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,1.5
+housefull_5,20,2025-06-25,₹1.00 Cr,https://www.sacnilk.com/movie/Housefull_5_2024,1.0
+housefull_5,21,2025-06-26,₹90 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.9
+housefull_5,22,2025-06-27,₹30 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.3
+housefull_5,23,2025-06-28,₹50 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.5
+housefull_5,24,2025-06-29,₹75 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.75
+housefull_5,25,2025-06-30,₹20 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.2
+housefull_5,26,2025-07-01,₹25 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.25
+housefull_5,27,2025-07-02,₹15 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.15
+housefull_5,28,2025-07-03,₹15 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.15
+housefull_5,29,2025-07-04,₹5 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.05
+housefull_5,30,2025-07-05,₹7 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.07
+housefull_5,31,2025-07-06,₹10 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.1
+housefull_5,32,2025-07-07,₹4 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.04
+housefull_5,33,2025-07-08,₹4 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.04
+housefull_5,34,2025-07-09,₹3 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.03
+housefull_5,35,2025-07-10,₹2 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.02
+housefull_5,36,2025-07-11,₹1 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.01
+housefull_5,37,2025-07-12,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+housefull_5,38,2025-07-13,₹2 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.02
+housefull_5,39,2025-07-14,₹1 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.01
+housefull_5,40,2025-07-15,₹1 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.01
+housefull_5,41,2025-07-16,₹1 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.01
+housefull_5,42,2025-07-17,₹1 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.01
+housefull_5,43,2025-07-18,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+housefull_5,44,2025-07-19,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+housefull_5,45,2025-07-20,₹1 L,https://www.sacnilk.com/movie/Housefull_5_2024,0.01
+housefull_5,46,2025-07-21,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+housefull_5,47,2025-07-22,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+housefull_5,48,2025-07-23,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+housefull_5,49,2025-07-24,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+housefull_5,50,2025-07-25,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+housefull_5,52,2025-07-27,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+housefull_5,53,2025-07-28,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+housefull_5,55,2025-07-30,—,https://www.sacnilk.com/movie/Housefull_5_2024,
+sitaare_zameen_par,1,2025-06-20,₹10.70 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,10.7
+sitaare_zameen_par,2,2025-06-21,₹20.20 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,20.2
+sitaare_zameen_par,3,2025-06-22,₹27.25 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,27.25
+sitaare_zameen_par,4,2025-06-23,₹8.50 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,8.5
+sitaare_zameen_par,5,2025-06-24,₹8.50 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,8.5
+sitaare_zameen_par,6,2025-06-25,₹7.25 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,7.25
+sitaare_zameen_par,7,2025-06-26,₹6.50 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,6.5
+sitaare_zameen_par,8,2025-06-27,₹6.65 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,6.65
+sitaare_zameen_par,9,2025-06-28,₹12.60 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,12.6
+sitaare_zameen_par,10,2025-06-29,₹14.50 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,14.5
+sitaare_zameen_par,11,2025-06-30,₹3.75 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,3.75
+sitaare_zameen_par,12,2025-07-01,₹3.75 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,3.75
+sitaare_zameen_par,13,2025-07-02,₹2.75 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,2.75
+sitaare_zameen_par,14,2025-07-03,₹2.50 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,2.5
+sitaare_zameen_par,15,2025-07-04,₹2.40 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,2.4
+sitaare_zameen_par,16,2025-07-05,₹4.75 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,4.75
+sitaare_zameen_par,17,2025-07-06,₹6.15 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,6.15
+sitaare_zameen_par,18,2025-07-07,₹1.35 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,1.35
+sitaare_zameen_par,19,2025-07-08,₹1.95 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,1.95
+sitaare_zameen_par,20,2025-07-09,₹1.20 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,1.2
+sitaare_zameen_par,21,2025-07-10,₹1.15 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,1.15
+sitaare_zameen_par,22,2025-07-11,₹90 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.9
+sitaare_zameen_par,23,2025-07-12,₹2.50 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,2.5
+sitaare_zameen_par,24,2025-07-13,₹2.85 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,2.85
+sitaare_zameen_par,25,2025-07-14,₹60 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.6
+sitaare_zameen_par,26,2025-07-15,₹80 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.8
+sitaare_zameen_par,27,2025-07-16,₹50 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.5
+sitaare_zameen_par,28,2025-07-17,₹50 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.5
+sitaare_zameen_par,29,2025-07-18,₹35 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.35
+sitaare_zameen_par,30,2025-07-19,₹80 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.8
+sitaare_zameen_par,31,2025-07-20,₹1.20 Cr,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,1.2
+sitaare_zameen_par,32,2025-07-21,₹20 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.2
+sitaare_zameen_par,33,2025-07-22,₹27 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.27
+sitaare_zameen_par,34,2025-07-23,₹18 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.18
+sitaare_zameen_par,35,2025-07-24,₹18 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.18
+sitaare_zameen_par,36,2025-07-25,₹12 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.12
+sitaare_zameen_par,37,2025-07-26,₹30 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.3
+sitaare_zameen_par,38,2025-07-27,₹40 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.4
+sitaare_zameen_par,39,2025-07-28,₹8 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.08
+sitaare_zameen_par,40,2025-07-29,₹8 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.08
+sitaare_zameen_par,41,2025-07-30,₹7 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.07
+sitaare_zameen_par,42,2025-07-31,₹3 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.03
+sitaare_zameen_par,43,2025-08-01,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,44,2025-08-02,₹3 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.03
+sitaare_zameen_par,45,2025-08-03,₹4 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.04
+sitaare_zameen_par,46,2025-08-04,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,47,2025-08-05,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,48,2025-08-06,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,49,2025-08-07,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,50,2025-08-08,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,51,2025-08-09,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,52,2025-08-10,₹2 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.02
+sitaare_zameen_par,53,2025-08-11,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,54,2025-08-12,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,55,2025-08-13,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,60,2025-08-18,—,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,
+sitaare_zameen_par,65,2025-08-23,₹1 L,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,0.01
+sitaare_zameen_par,67,2025-08-25,—,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,
+sitaare_zameen_par,68,2025-08-26,—,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,
+sitaare_zameen_par,69,2025-08-27,—,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,
+sitaare_zameen_par,70,2025-08-28,—,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,
+sitaare_zameen_par,72,2025-08-30,—,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,
+sitaare_zameen_par,99,2025-09-26,—,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,
+sitaare_zameen_par,103,2025-09-30,—,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,
+sitaare_zameen_par,135,2025-11-01,—,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,
+sitaare_zameen_par,139,2025-11-05,—,https://www.sacnilk.com/movie/Sitaare_Zameen_Par_2025,
+saiyaara,1,2025-07-18,₹21.50 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,21.5
+saiyaara,2,2025-07-19,₹26.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,26.0
+saiyaara,3,2025-07-20,₹35.75 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,35.75
+saiyaara,4,2025-07-21,₹24.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,24.0
+saiyaara,5,2025-07-22,₹25.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,25.0
+saiyaara,6,2025-07-23,₹21.50 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,21.5
+saiyaara,7,2025-07-24,₹19.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,19.0
+saiyaara,8,2025-07-25,₹18.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,18.0
+saiyaara,9,2025-07-26,₹26.50 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,26.5
+saiyaara,10,2025-07-27,₹30.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,30.0
+saiyaara,11,2025-07-28,₹9.25 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,9.25
+saiyaara,12,2025-07-29,₹10.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,10.0
+saiyaara,13,2025-07-30,₹7.50 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,7.5
+saiyaara,14,2025-07-31,₹6.50 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,6.5
+saiyaara,15,2025-08-01,₹4.50 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,4.5
+saiyaara,16,2025-08-02,₹6.75 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,6.75
+saiyaara,17,2025-08-03,₹8.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,8.0
+saiyaara,18,2025-08-04,₹2.35 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,2.35
+saiyaara,19,2025-08-05,₹2.50 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,2.5
+saiyaara,20,2025-08-06,₹2.15 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,2.15
+saiyaara,21,2025-08-07,₹2.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,2.0
+saiyaara,22,2025-08-08,₹2.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,2.0
+saiyaara,23,2025-08-09,₹3.75 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,3.75
+saiyaara,24,2025-08-10,₹4.00 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,4.0
+saiyaara,25,2025-08-11,₹1.35 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,1.35
+saiyaara,26,2025-08-12,₹1.50 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,1.5
+saiyaara,27,2025-08-13,₹1.25 Cr,https://www.sacnilk.com/movie/Saiyaara_2025,1.25
+saiyaara,28,2025-08-14,₹25 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.25
+saiyaara,29,2025-08-15,₹50 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.5
+saiyaara,30,2025-08-16,₹50 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.5
+saiyaara,31,2025-08-17,₹60 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.6
+saiyaara,32,2025-08-18,₹35 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.35
+saiyaara,33,2025-08-19,₹35 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.35
+saiyaara,34,2025-08-20,₹35 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.35
+saiyaara,35,2025-08-21,₹30 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.3
+saiyaara,36,2025-08-22,₹35 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.35
+saiyaara,37,2025-08-23,₹70 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.7
+saiyaara,38,2025-08-24,₹80 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.8
+saiyaara,39,2025-08-25,₹25 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.25
+saiyaara,40,2025-08-26,₹30 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.3
+saiyaara,41,2025-08-27,₹30 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.3
+saiyaara,42,2025-08-28,₹20 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.2
+saiyaara,43,2025-08-29,₹8 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.08
+saiyaara,44,2025-08-30,₹17 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.17
+saiyaara,45,2025-08-31,₹20 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.2
+saiyaara,46,2025-09-01,₹5 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.05
+saiyaara,47,2025-09-02,₹5 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.05
+saiyaara,48,2025-09-03,₹7 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.07
+saiyaara,49,2025-09-04,₹8 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.08
+saiyaara,50,2025-09-05,₹2 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.02
+saiyaara,51,2025-09-06,₹3 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.03
+saiyaara,52,2025-09-07,₹4 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.04
+saiyaara,53,2025-09-08,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,54,2025-09-09,₹2 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.02
+saiyaara,55,2025-09-10,₹2 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.02
+saiyaara,56,2025-09-11,₹2 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.02
+saiyaara,57,2025-09-12,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,58,2025-09-13,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,59,2025-09-14,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,60,2025-09-15,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,61,2025-09-16,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,62,2025-09-17,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,63,2025-09-18,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,64,2025-09-19,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,65,2025-09-20,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,66,2025-09-21,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,67,2025-09-22,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,68,2025-09-23,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,69,2025-09-24,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,70,2025-09-25,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,71,2025-09-26,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,72,2025-09-27,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,73,2025-09-28,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,74,2025-09-29,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,75,2025-09-30,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,76,2025-10-01,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,77,2025-10-02,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,78,2025-10-03,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,79,2025-10-04,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,80,2025-10-05,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,81,2025-10-06,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,82,2025-10-07,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,83,2025-10-08,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,84,2025-10-09,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,85,2025-10-10,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,86,2025-10-11,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,87,2025-10-12,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,88,2025-10-13,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,89,2025-10-14,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,90,2025-10-15,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,91,2025-10-16,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,92,2025-10-17,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,93,2025-10-18,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,94,2025-10-19,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,95,2025-10-20,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,96,2025-10-21,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,97,2025-10-22,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,101,2025-10-26,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,102,2025-10-27,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,104,2025-10-29,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,105,2025-10-30,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,123,2025-11-17,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,124,2025-11-18,₹1 L,https://www.sacnilk.com/movie/Saiyaara_2025,0.01
+saiyaara,125,2025-11-19,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+saiyaara,126,2025-11-20,—,https://www.sacnilk.com/movie/Saiyaara_2025,
+dhadak_2,1,2025-08-01,₹3.50 Cr,https://www.sacnilk.com/movie/Dhadak_2_2024,3.5
+dhadak_2,2,2025-08-02,₹3.75 Cr,https://www.sacnilk.com/movie/Dhadak_2_2024,3.75
+dhadak_2,3,2025-08-03,₹4.15 Cr,https://www.sacnilk.com/movie/Dhadak_2_2024,4.15
+dhadak_2,4,2025-08-04,₹1.35 Cr,https://www.sacnilk.com/movie/Dhadak_2_2024,1.35
+dhadak_2,5,2025-08-05,₹1.70 Cr,https://www.sacnilk.com/movie/Dhadak_2_2024,1.7
+dhadak_2,6,2025-08-06,₹1.15 Cr,https://www.sacnilk.com/movie/Dhadak_2_2024,1.15
+dhadak_2,7,2025-08-07,₹1.10 Cr,https://www.sacnilk.com/movie/Dhadak_2_2024,1.1
+dhadak_2,8,2025-08-08,₹65 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.65
+dhadak_2,9,2025-08-09,₹1.40 Cr,https://www.sacnilk.com/movie/Dhadak_2_2024,1.4
+dhadak_2,10,2025-08-10,₹1.65 Cr,https://www.sacnilk.com/movie/Dhadak_2_2024,1.65
+dhadak_2,11,2025-08-11,₹60 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.6
+dhadak_2,12,2025-08-12,₹70 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.7
+dhadak_2,13,2025-08-13,₹52 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.52
+dhadak_2,14,2025-08-14,₹3 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.03
+dhadak_2,15,2025-08-15,₹7 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.07
+dhadak_2,16,2025-08-16,₹6 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.06
+dhadak_2,17,2025-08-17,₹7 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.07
+dhadak_2,18,2025-08-18,₹3 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.03
+dhadak_2,19,2025-08-19,₹4 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.04
+dhadak_2,20,2025-08-20,₹3 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.03
+dhadak_2,21,2025-08-21,₹3 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.03
+dhadak_2,22,2025-08-22,₹9 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.09
+dhadak_2,23,2025-08-23,₹17 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.17
+dhadak_2,24,2025-08-24,₹22 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.22
+dhadak_2,25,2025-08-25,₹7 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.07
+dhadak_2,26,2025-08-26,₹9 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.09
+dhadak_2,27,2025-08-27,₹8 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.08
+dhadak_2,28,2025-08-28,₹6 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.06
+dhadak_2,29,2025-08-29,₹1 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.01
+dhadak_2,30,2025-08-30,₹1 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.01
+dhadak_2,31,2025-08-31,₹1 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.01
+dhadak_2,32,2025-09-01,—,https://www.sacnilk.com/movie/Dhadak_2_2024,
+dhadak_2,33,2025-09-02,₹1 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.01
+dhadak_2,34,2025-09-03,₹1 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.01
+dhadak_2,35,2025-09-04,₹1 L,https://www.sacnilk.com/movie/Dhadak_2_2024,0.01
+dhadak_2,38,2025-09-07,—,https://www.sacnilk.com/movie/Dhadak_2_2024,
+dhadak_2,78,2025-10-17,—,https://www.sacnilk.com/movie/Dhadak_2_2024,
+jolly_llb_3,1,2025-09-19,₹12.50 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,12.5
+jolly_llb_3,2,2025-09-20,₹20.00 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,20.0
+jolly_llb_3,3,2025-09-21,₹21.00 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,21.0
+jolly_llb_3,4,2025-09-22,₹5.50 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,5.5
+jolly_llb_3,5,2025-09-23,₹6.50 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,6.5
+jolly_llb_3,6,2025-09-24,₹4.50 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,4.5
+jolly_llb_3,7,2025-09-25,₹4.00 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,4.0
+jolly_llb_3,8,2025-09-26,₹3.75 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,3.75
+jolly_llb_3,9,2025-09-27,₹6.50 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,6.5
+jolly_llb_3,10,2025-09-28,₹6.25 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,6.25
+jolly_llb_3,11,2025-09-29,₹2.75 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,2.75
+jolly_llb_3,12,2025-09-30,₹3.75 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,3.75
+jolly_llb_3,13,2025-10-01,₹4.00 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,4.0
+jolly_llb_3,14,2025-10-02,₹2.00 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,2.0
+jolly_llb_3,15,2025-10-03,₹1.15 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,1.15
+jolly_llb_3,16,2025-10-04,₹1.75 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,1.75
+jolly_llb_3,17,2025-10-05,₹2.15 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,2.15
+jolly_llb_3,18,2025-10-06,₹60 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.6
+jolly_llb_3,19,2025-10-07,₹75 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.75
+jolly_llb_3,20,2025-10-08,₹45 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.45
+jolly_llb_3,21,2025-10-09,₹45 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.45
+jolly_llb_3,22,2025-10-10,₹50 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.5
+jolly_llb_3,23,2025-10-11,₹1.00 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,1.0
+jolly_llb_3,24,2025-10-12,₹1.15 Cr,https://www.sacnilk.com/movie/Jolly_LLB_2024,1.15
+jolly_llb_3,25,2025-10-13,₹30 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.3
+jolly_llb_3,26,2025-10-14,₹45 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.45
+jolly_llb_3,27,2025-10-15,₹25 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.25
+jolly_llb_3,28,2025-10-16,₹25 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.25
+jolly_llb_3,29,2025-10-17,₹25 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.25
+jolly_llb_3,30,2025-10-18,₹40 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.4
+jolly_llb_3,31,2025-10-19,₹65 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.65
+jolly_llb_3,32,2025-10-20,₹35 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.35
+jolly_llb_3,33,2025-10-21,₹13 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.13
+jolly_llb_3,34,2025-10-22,₹12 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.12
+jolly_llb_3,35,2025-10-23,₹10 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.1
+jolly_llb_3,36,2025-10-24,₹10 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.1
+jolly_llb_3,37,2025-10-25,₹20 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.2
+jolly_llb_3,38,2025-10-26,₹25 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.25
+jolly_llb_3,39,2025-10-27,₹6 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.06
+jolly_llb_3,40,2025-10-28,₹7 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.07
+jolly_llb_3,41,2025-10-29,₹5 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.05
+jolly_llb_3,42,2025-10-30,₹5 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.05
+jolly_llb_3,43,2025-10-31,₹3 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.03
+jolly_llb_3,44,2025-11-01,₹9 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.09
+jolly_llb_3,45,2025-11-02,₹9 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.09
+jolly_llb_3,46,2025-11-03,₹2 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.02
+jolly_llb_3,47,2025-11-04,₹4 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.04
+jolly_llb_3,48,2025-11-05,₹5 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.05
+jolly_llb_3,49,2025-11-06,₹2 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.02
+jolly_llb_3,50,2025-11-07,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,51,2025-11-08,₹3 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.03
+jolly_llb_3,52,2025-11-09,₹4 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.04
+jolly_llb_3,53,2025-11-10,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,54,2025-11-11,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,55,2025-11-12,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,56,2025-11-13,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,57,2025-11-14,—,https://www.sacnilk.com/movie/Jolly_LLB_2024,
+jolly_llb_3,58,2025-11-15,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,59,2025-11-16,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,60,2025-11-17,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,61,2025-11-18,—,https://www.sacnilk.com/movie/Jolly_LLB_2024,
+jolly_llb_3,62,2025-11-19,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,63,2025-11-20,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,64,2025-11-21,—,https://www.sacnilk.com/movie/Jolly_LLB_2024,
+jolly_llb_3,65,2025-11-22,—,https://www.sacnilk.com/movie/Jolly_LLB_2024,
+jolly_llb_3,66,2025-11-23,₹1 L,https://www.sacnilk.com/movie/Jolly_LLB_2024,0.01
+jolly_llb_3,70,2025-11-27,—,https://www.sacnilk.com/movie/Jolly_LLB_2024,
+dhurandhar,1,2025-12-05,₹28.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,28.0
+dhurandhar,2,2025-12-06,₹32.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,32.0
+dhurandhar,3,2025-12-07,₹43.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,43.0
+dhurandhar,4,2025-12-08,₹23.25 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,23.25
+dhurandhar,5,2025-12-09,₹27.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,27.0
+dhurandhar,6,2025-12-10,₹27.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,27.0
+dhurandhar,7,2025-12-11,₹27.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,27.0
+dhurandhar,8,2025-12-12,₹32.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,32.5
+dhurandhar,9,2025-12-13,₹53.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,53.0
+dhurandhar,10,2025-12-14,₹58.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,58.0
+dhurandhar,11,2025-12-15,₹30.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,30.5
+dhurandhar,12,2025-12-16,₹30.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,30.5
+dhurandhar,13,2025-12-17,₹25.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,25.5
+dhurandhar,14,2025-12-18,₹23.25 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,23.25
+dhurandhar,15,2025-12-19,₹22.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,22.5
+dhurandhar,16,2025-12-20,₹34.25 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,34.25
+dhurandhar,17,2025-12-21,₹38.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,38.5
+dhurandhar,18,2025-12-22,₹16.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,16.5
+dhurandhar,19,2025-12-23,₹17.25 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,17.25
+dhurandhar,20,2025-12-24,₹18.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,18.0
+dhurandhar,21,2025-12-25,₹25.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,25.0
+dhurandhar,22,2025-12-26,₹15.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,15.0
+dhurandhar,23,2025-12-27,₹20.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,20.5
+dhurandhar,24,2025-12-28,₹22.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,22.5
+dhurandhar,25,2025-12-29,₹10.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,10.5
+dhurandhar,26,2025-12-30,₹11.25 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,11.25
+dhurandhar,27,2025-12-31,₹11.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,11.0
+dhurandhar,28,2026-01-01,₹15.75 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,15.75
+dhurandhar,29,2026-01-02,₹8.75 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,8.75
+dhurandhar,30,2026-01-03,₹11.75 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,11.75
+dhurandhar,31,2026-01-04,₹12.75 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,12.75
+dhurandhar,32,2026-01-05,₹4.75 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,4.75
+dhurandhar,33,2026-01-06,₹4.75 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,4.75
+dhurandhar,34,2026-01-07,₹4.25 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,4.25
+dhurandhar,35,2026-01-08,₹4.25 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,4.25
+dhurandhar,36,2026-01-09,₹3.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,3.5
+dhurandhar,37,2026-01-10,₹5.75 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,5.75
+dhurandhar,38,2026-01-11,₹6.15 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,6.15
+dhurandhar,39,2026-01-12,₹2.35 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,2.35
+dhurandhar,40,2026-01-13,₹2.60 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,2.6
+dhurandhar,41,2026-01-14,₹3.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,3.0
+dhurandhar,42,2026-01-15,₹3.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,3.0
+dhurandhar,43,2026-01-16,₹1.75 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,1.75
+dhurandhar,44,2026-01-17,₹3.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,3.0
+dhurandhar,45,2026-01-18,₹3.75 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,3.75
+dhurandhar,46,2026-01-19,₹1.50 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,1.5
+dhurandhar,47,2026-01-20,₹1.65 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,1.65
+dhurandhar,48,2026-01-21,₹1.15 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,1.15
+dhurandhar,49,2026-01-22,₹1.10 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,1.1
+dhurandhar,50,2026-01-23,₹55 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.55
+dhurandhar,51,2026-01-24,₹1.00 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,1.0
+dhurandhar,52,2026-01-25,₹1.35 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,1.35
+dhurandhar,53,2026-01-26,₹1.25 Cr,https://www.sacnilk.com/movie/Dhurandhar_2025,1.25
+dhurandhar,54,2026-01-27,₹50 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.5
+dhurandhar,55,2026-01-28,₹35 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.35
+dhurandhar,56,2026-01-29,₹35 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.35
+dhurandhar,57,2026-01-30,₹25 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.25
+dhurandhar,58,2026-01-31,₹40 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.4
+dhurandhar,59,2026-02-01,₹45 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.45
+dhurandhar,60,2026-02-02,₹15 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.15
+dhurandhar,61,2026-02-03,₹20 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.2
+dhurandhar,62,2026-02-04,₹15 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.15
+dhurandhar,63,2026-02-05,₹15 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.15
+dhurandhar,64,2026-02-06,₹5 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.05
+dhurandhar,65,2026-02-07,₹15 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.15
+dhurandhar,66,2026-02-08,₹20 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.2
+dhurandhar,67,2026-02-09,₹7 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.07
+dhurandhar,68,2026-02-10,₹8 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.08
+dhurandhar,69,2026-02-11,₹10 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.1
+dhurandhar,70,2026-02-12,₹7 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.07
+dhurandhar,77,2026-02-19,₹18 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.18
+dhurandhar,84,2026-02-26,₹8 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.08
+dhurandhar,91,2026-03-05,₹8 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.08
+dhurandhar,98,2026-03-12,₹21 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.21
+dhurandhar,99,2026-03-13,₹18 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.18
+dhurandhar,100,2026-03-14,₹30 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.3
+dhurandhar,101,2026-03-15,₹40 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.4
+dhurandhar,102,2026-03-16,₹15 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.15
+dhurandhar,103,2026-03-17,₹20 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.2
+dhurandhar,104,2026-03-18,₹10 L,https://www.sacnilk.com/movie/Dhurandhar_2025,0.1
+bhool_chuk_maaf,1,2025-05-23,₹7.00 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,7.0
+bhool_chuk_maaf,2,2025-05-24,₹9.50 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,9.5
+bhool_chuk_maaf,3,2025-05-25,₹11.50 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,11.5
+bhool_chuk_maaf,4,2025-05-26,₹4.50 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,4.5
+bhool_chuk_maaf,5,2025-05-27,₹4.75 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,4.75
+bhool_chuk_maaf,6,2025-05-28,₹3.50 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,3.5
+bhool_chuk_maaf,7,2025-05-29,₹3.35 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,3.35
+bhool_chuk_maaf,8,2025-05-30,₹3.25 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,3.25
+bhool_chuk_maaf,9,2025-05-31,₹5.25 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,5.25
+bhool_chuk_maaf,10,2025-06-01,₹6.35 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,6.35
+bhool_chuk_maaf,11,2025-06-02,₹2.20 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,2.2
+bhool_chuk_maaf,12,2025-06-03,₹2.20 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,2.2
+bhool_chuk_maaf,13,2025-06-04,₹1.75 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,1.75
+bhool_chuk_maaf,14,2025-06-05,₹1.50 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,1.5
+bhool_chuk_maaf,15,2025-06-06,₹45 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.45
+bhool_chuk_maaf,16,2025-06-07,₹95 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.95
+bhool_chuk_maaf,17,2025-06-08,₹1.20 Cr,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,1.2
+bhool_chuk_maaf,18,2025-06-09,₹40 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.4
+bhool_chuk_maaf,19,2025-06-10,₹45 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.45
+bhool_chuk_maaf,20,2025-06-11,₹30 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.3
+bhool_chuk_maaf,21,2025-06-12,₹30 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.3
+bhool_chuk_maaf,22,2025-06-13,₹25 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.25
+bhool_chuk_maaf,23,2025-06-14,₹40 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.4
+bhool_chuk_maaf,24,2025-06-15,₹50 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.5
+bhool_chuk_maaf,25,2025-06-16,₹15 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.15
+bhool_chuk_maaf,26,2025-06-17,₹23 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.23
+bhool_chuk_maaf,27,2025-06-18,₹12 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.12
+bhool_chuk_maaf,28,2025-06-19,₹13 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.13
+bhool_chuk_maaf,29,2025-06-20,₹7 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.07
+bhool_chuk_maaf,30,2025-06-21,₹5 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.05
+bhool_chuk_maaf,31,2025-06-22,₹5 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.05
+bhool_chuk_maaf,32,2025-06-23,₹1 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.01
+bhool_chuk_maaf,33,2025-06-24,₹2 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.02
+bhool_chuk_maaf,34,2025-06-25,₹2 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.02
+bhool_chuk_maaf,35,2025-06-26,₹2 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.02
+bhool_chuk_maaf,36,2025-06-27,₹1 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.01
+bhool_chuk_maaf,37,2025-06-28,₹1 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.01
+bhool_chuk_maaf,38,2025-06-29,₹1 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.01
+bhool_chuk_maaf,39,2025-06-30,₹1 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.01
+bhool_chuk_maaf,40,2025-07-01,₹1 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.01
+bhool_chuk_maaf,41,2025-07-02,—,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,
+bhool_chuk_maaf,42,2025-07-03,—,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,
+bhool_chuk_maaf,43,2025-07-04,—,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,
+bhool_chuk_maaf,44,2025-07-05,—,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,
+bhool_chuk_maaf,45,2025-07-06,₹1 L,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,0.01
+bhool_chuk_maaf,46,2025-07-07,—,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,
+bhool_chuk_maaf,47,2025-07-08,—,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,
+bhool_chuk_maaf,48,2025-07-09,—,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,
+bhool_chuk_maaf,49,2025-07-10,—,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,
+bhool_chuk_maaf,65,2025-07-26,—,https://www.sacnilk.com/movie/Bhool_Chuk_Maaf_2025,
+dragon,1,2025-02-21,₹6.50 Cr,https://www.sacnilk.com/movie/Dragon_2025,6.5
+dragon,2,2025-02-22,₹10.80 Cr,https://www.sacnilk.com/movie/Dragon_2025,10.8
+dragon,3,2025-02-23,₹12.75 Cr,https://www.sacnilk.com/movie/Dragon_2025,12.75
+dragon,4,2025-02-24,₹5.80 Cr,https://www.sacnilk.com/movie/Dragon_2025,5.8
+dragon,5,2025-02-25,₹5.10 Cr,https://www.sacnilk.com/movie/Dragon_2025,5.1
+dragon,6,2025-02-26,₹5.20 Cr,https://www.sacnilk.com/movie/Dragon_2025,5.2
+dragon,7,2025-02-27,₹4.15 Cr,https://www.sacnilk.com/movie/Dragon_2025,4.15
+dragon,8,2025-02-28,₹4.70 Cr,https://www.sacnilk.com/movie/Dragon_2025,4.7
+dragon,9,2025-03-01,₹8.50 Cr,https://www.sacnilk.com/movie/Dragon_2025,8.5
+dragon,10,2025-03-02,₹9.00 Cr,https://www.sacnilk.com/movie/Dragon_2025,9.0
+dragon,11,2025-03-03,₹2.85 Cr,https://www.sacnilk.com/movie/Dragon_2025,2.85
+dragon,12,2025-03-04,₹2.40 Cr,https://www.sacnilk.com/movie/Dragon_2025,2.4
+dragon,13,2025-03-05,₹2.30 Cr,https://www.sacnilk.com/movie/Dragon_2025,2.3
+dragon,14,2025-03-06,₹2.15 Cr,https://www.sacnilk.com/movie/Dragon_2025,2.15
+dragon,15,2025-03-07,₹2.05 Cr,https://www.sacnilk.com/movie/Dragon_2025,2.05
+dragon,16,2025-03-08,₹3.65 Cr,https://www.sacnilk.com/movie/Dragon_2025,3.65
+dragon,17,2025-03-09,₹2.95 Cr,https://www.sacnilk.com/movie/Dragon_2025,2.95
+dragon,18,2025-03-10,₹1.30 Cr,https://www.sacnilk.com/movie/Dragon_2025,1.3
+dragon,19,2025-03-11,₹1.05 Cr,https://www.sacnilk.com/movie/Dragon_2025,1.05
+dragon,20,2025-03-12,₹90 L,https://www.sacnilk.com/movie/Dragon_2025,0.9
+dragon,21,2025-03-13,₹90 L,https://www.sacnilk.com/movie/Dragon_2025,0.9
+dragon,22,2025-03-14,₹75 L,https://www.sacnilk.com/movie/Dragon_2025,0.75
+dragon,23,2025-03-15,₹1.25 Cr,https://www.sacnilk.com/movie/Dragon_2025,1.25
+dragon,24,2025-03-16,₹1.30 Cr,https://www.sacnilk.com/movie/Dragon_2025,1.3
+dragon,25,2025-03-17,₹35 L,https://www.sacnilk.com/movie/Dragon_2025,0.35
+dragon,26,2025-03-18,₹35 L,https://www.sacnilk.com/movie/Dragon_2025,0.35
+dragon,27,2025-03-19,₹30 L,https://www.sacnilk.com/movie/Dragon_2025,0.3
+dragon,28,2025-03-20,₹27 L,https://www.sacnilk.com/movie/Dragon_2025,0.27
+dragon,29,2025-03-21,₹27 L,https://www.sacnilk.com/movie/Dragon_2025,0.27
+dragon,30,2025-03-22,₹48 L,https://www.sacnilk.com/movie/Dragon_2025,0.48
+dragon,31,2025-03-23,₹60 L,https://www.sacnilk.com/movie/Dragon_2025,0.6
+dragon,32,2025-03-24,₹21 L,https://www.sacnilk.com/movie/Dragon_2025,0.21
+dragon,33,2025-03-25,₹21 L,https://www.sacnilk.com/movie/Dragon_2025,0.21
+dragon,34,2025-03-26,₹41 L,https://www.sacnilk.com/movie/Dragon_2025,0.41
+dragon,35,2025-03-27,₹13 L,https://www.sacnilk.com/movie/Dragon_2025,0.13
+dragon,36,2025-03-28,₹4 L,https://www.sacnilk.com/movie/Dragon_2025,0.04
+dragon,37,2025-03-29,₹5 L,https://www.sacnilk.com/movie/Dragon_2025,0.05
+dragon,38,2025-03-30,₹13 L,https://www.sacnilk.com/movie/Dragon_2025,0.13
+dragon,39,2025-03-31,₹7 L,https://www.sacnilk.com/movie/Dragon_2025,0.07
+dragon,40,2025-04-01,₹4 L,https://www.sacnilk.com/movie/Dragon_2025,0.04
+dragon,41,2025-04-02,₹2 L,https://www.sacnilk.com/movie/Dragon_2025,0.02
+dragon,42,2025-04-03,₹2 L,https://www.sacnilk.com/movie/Dragon_2025,0.02
+dragon,43,2025-04-04,₹2 L,https://www.sacnilk.com/movie/Dragon_2025,0.02
+dragon,44,2025-04-05,₹5 L,https://www.sacnilk.com/movie/Dragon_2025,0.05
+dragon,45,2025-04-06,₹5 L,https://www.sacnilk.com/movie/Dragon_2025,0.05
+dragon,46,2025-04-07,₹2 L,https://www.sacnilk.com/movie/Dragon_2025,0.02
+dragon,47,2025-04-08,₹2 L,https://www.sacnilk.com/movie/Dragon_2025,0.02
+dragon,48,2025-04-09,₹2 L,https://www.sacnilk.com/movie/Dragon_2025,0.02
+dragon,49,2025-04-10,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,50,2025-04-11,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,51,2025-04-12,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,52,2025-04-13,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,53,2025-04-14,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,54,2025-04-15,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,55,2025-04-16,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,56,2025-04-17,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,57,2025-04-18,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,58,2025-04-19,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,59,2025-04-20,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,60,2025-04-21,—,https://www.sacnilk.com/movie/Dragon_2025,
+dragon,61,2025-04-22,—,https://www.sacnilk.com/movie/Dragon_2025,
+dragon,62,2025-04-23,₹1 L,https://www.sacnilk.com/movie/Dragon_2025,0.01
+dragon,63,2025-04-24,—,https://www.sacnilk.com/movie/Dragon_2025,
+dragon,66,2025-04-27,—,https://www.sacnilk.com/movie/Dragon_2025,
+dragon,99,2025-05-30,—,https://www.sacnilk.com/movie/Dragon_2025,
+dragon,100,2025-05-31,—,https://www.sacnilk.com/movie/Dragon_2025,
+dragon,101,2025-06-01,—,https://www.sacnilk.com/movie/Dragon_2025,
+dragon,102,2025-06-02,—,https://www.sacnilk.com/movie/Dragon_2025,
+madharaasi,1,2025-09-05,₹13.65 Cr,https://www.sacnilk.com/movie/Madharasi_2025,13.65
+madharaasi,2,2025-09-06,₹12.10 Cr,https://www.sacnilk.com/movie/Madharasi_2025,12.1
+madharaasi,3,2025-09-07,₹11.40 Cr,https://www.sacnilk.com/movie/Madharasi_2025,11.4
+madharaasi,4,2025-09-08,₹4.15 Cr,https://www.sacnilk.com/movie/Madharasi_2025,4.15
+madharaasi,5,2025-09-09,₹3.20 Cr,https://www.sacnilk.com/movie/Madharasi_2025,3.2
+madharaasi,6,2025-09-10,₹2.50 Cr,https://www.sacnilk.com/movie/Madharasi_2025,2.5
+madharaasi,7,2025-09-11,₹2.00 Cr,https://www.sacnilk.com/movie/Madharasi_2025,2.0
+madharaasi,8,2025-09-12,₹1.80 Cr,https://www.sacnilk.com/movie/Madharasi_2025,1.8
+madharaasi,9,2025-09-13,₹2.90 Cr,https://www.sacnilk.com/movie/Madharasi_2025,2.9
+madharaasi,10,2025-09-14,₹3.00 Cr,https://www.sacnilk.com/movie/Madharasi_2025,3.0
+madharaasi,11,2025-09-15,₹1.00 Cr,https://www.sacnilk.com/movie/Madharasi_2025,1.0
+madharaasi,12,2025-09-16,₹1.05 Cr,https://www.sacnilk.com/movie/Madharasi_2025,1.05
+madharaasi,13,2025-09-17,₹95 L,https://www.sacnilk.com/movie/Madharasi_2025,0.95
+madharaasi,14,2025-09-18,₹85 L,https://www.sacnilk.com/movie/Madharasi_2025,0.85
+madharaasi,15,2025-09-19,₹21 L,https://www.sacnilk.com/movie/Madharasi_2025,0.21
+madharaasi,16,2025-09-20,₹46 L,https://www.sacnilk.com/movie/Madharasi_2025,0.46
+madharaasi,17,2025-09-21,₹52 L,https://www.sacnilk.com/movie/Madharasi_2025,0.52
+madharaasi,18,2025-09-22,₹12 L,https://www.sacnilk.com/movie/Madharasi_2025,0.12
+madharaasi,19,2025-09-23,₹13 L,https://www.sacnilk.com/movie/Madharasi_2025,0.13
+madharaasi,20,2025-09-24,₹13 L,https://www.sacnilk.com/movie/Madharasi_2025,0.13
+madharaasi,21,2025-09-25,₹6 L,https://www.sacnilk.com/movie/Madharasi_2025,0.06
+madharaasi,22,2025-09-26,₹7 L,https://www.sacnilk.com/movie/Madharasi_2025,0.07
+madharaasi,23,2025-09-27,₹15 L,https://www.sacnilk.com/movie/Madharasi_2025,0.15
+madharaasi,24,2025-09-28,₹17 L,https://www.sacnilk.com/movie/Madharasi_2025,0.17
+madharaasi,25,2025-09-29,₹5 L,https://www.sacnilk.com/movie/Madharasi_2025,0.05
+madharaasi,26,2025-09-30,₹5 L,https://www.sacnilk.com/movie/Madharasi_2025,0.05
+madharaasi,27,2025-10-01,₹4 L,https://www.sacnilk.com/movie/Madharasi_2025,0.04
+madharaasi,28,2025-10-02,₹4 L,https://www.sacnilk.com/movie/Madharasi_2025,0.04
+madharaasi,29,2025-10-03,₹1 L,https://www.sacnilk.com/movie/Madharasi_2025,0.01
+madharaasi,30,2025-10-04,₹1 L,https://www.sacnilk.com/movie/Madharasi_2025,0.01
+madharaasi,31,2025-10-05,₹1 L,https://www.sacnilk.com/movie/Madharasi_2025,0.01
+madharaasi,32,2025-10-06,₹1 L,https://www.sacnilk.com/movie/Madharasi_2025,0.01
+madharaasi,33,2025-10-07,₹1 L,https://www.sacnilk.com/movie/Madharasi_2025,0.01
+madharaasi,34,2025-10-08,₹1 L,https://www.sacnilk.com/movie/Madharasi_2025,0.01
+madharaasi,35,2025-10-09,₹1 L,https://www.sacnilk.com/movie/Madharasi_2025,0.01
+madharaasi,36,2025-10-10,—,https://www.sacnilk.com/movie/Madharasi_2025,
+madharaasi,37,2025-10-11,—,https://www.sacnilk.com/movie/Madharasi_2025,
+madharaasi,38,2025-10-12,—,https://www.sacnilk.com/movie/Madharasi_2025,
+madharaasi,40,2025-10-14,—,https://www.sacnilk.com/movie/Madharasi_2025,
+madharaasi,42,2025-10-16,—,https://www.sacnilk.com/movie/Madharasi_2025,
+madharaasi,66,2025-11-09,—,https://www.sacnilk.com/movie/Madharasi_2025,
+dude,1,2025-10-17,₹9.75 Cr,https://www.sacnilk.com/movie/Dude_2025,9.75
+dude,2,2025-10-18,₹10.40 Cr,https://www.sacnilk.com/movie/Dude_2025,10.4
+dude,3,2025-10-19,₹10.60 Cr,https://www.sacnilk.com/movie/Dude_2025,10.6
+dude,4,2025-10-20,₹10.80 Cr,https://www.sacnilk.com/movie/Dude_2025,10.8
+dude,5,2025-10-21,₹8.75 Cr,https://www.sacnilk.com/movie/Dude_2025,8.75
+dude,6,2025-10-22,₹4.00 Cr,https://www.sacnilk.com/movie/Dude_2025,4.0
+dude,7,2025-10-23,₹2.20 Cr,https://www.sacnilk.com/movie/Dude_2025,2.2
+dude,8,2025-10-24,₹2.00 Cr,https://www.sacnilk.com/movie/Dude_2025,2.0
+dude,9,2025-10-25,₹3.40 Cr,https://www.sacnilk.com/movie/Dude_2025,3.4
+dude,10,2025-10-26,₹3.50 Cr,https://www.sacnilk.com/movie/Dude_2025,3.5
+dude,11,2025-10-27,₹1.35 Cr,https://www.sacnilk.com/movie/Dude_2025,1.35
+dude,12,2025-10-28,₹1.25 Cr,https://www.sacnilk.com/movie/Dude_2025,1.25
+dude,13,2025-10-29,₹1.10 Cr,https://www.sacnilk.com/movie/Dude_2025,1.1
+dude,14,2025-10-30,₹1.10 Cr,https://www.sacnilk.com/movie/Dude_2025,1.1
+dude,15,2025-10-31,₹40 L,https://www.sacnilk.com/movie/Dude_2025,0.4
+dude,16,2025-11-01,₹76 L,https://www.sacnilk.com/movie/Dude_2025,0.76
+dude,17,2025-11-02,₹63 L,https://www.sacnilk.com/movie/Dude_2025,0.63
+dude,18,2025-11-03,₹21 L,https://www.sacnilk.com/movie/Dude_2025,0.21
+dude,19,2025-11-04,₹22 L,https://www.sacnilk.com/movie/Dude_2025,0.22
+dude,20,2025-11-05,₹15 L,https://www.sacnilk.com/movie/Dude_2025,0.15
+dude,21,2025-11-06,₹13 L,https://www.sacnilk.com/movie/Dude_2025,0.13
+dude,22,2025-11-07,₹6 L,https://www.sacnilk.com/movie/Dude_2025,0.06
+dude,23,2025-11-08,₹10 L,https://www.sacnilk.com/movie/Dude_2025,0.1
+dude,24,2025-11-09,₹12 L,https://www.sacnilk.com/movie/Dude_2025,0.12
+dude,25,2025-11-10,₹2 L,https://www.sacnilk.com/movie/Dude_2025,0.02
+dude,26,2025-11-11,₹1 L,https://www.sacnilk.com/movie/Dude_2025,0.01
+dude,27,2025-11-12,₹2 L,https://www.sacnilk.com/movie/Dude_2025,0.02
+dude,28,2025-11-13,₹3 L,https://www.sacnilk.com/movie/Dude_2025,0.03
+dude,29,2025-11-14,₹1 L,https://www.sacnilk.com/movie/Dude_2025,0.01
+dude,30,2025-11-15,₹1 L,https://www.sacnilk.com/movie/Dude_2025,0.01
+dude,31,2025-11-16,₹1 L,https://www.sacnilk.com/movie/Dude_2025,0.01
+dude,32,2025-11-17,₹1 L,https://www.sacnilk.com/movie/Dude_2025,0.01
+dude,33,2025-11-18,₹1 L,https://www.sacnilk.com/movie/Dude_2025,0.01
+dude,34,2025-11-19,—,https://www.sacnilk.com/movie/Dude_2025,
+dude,35,2025-11-20,₹1 L,https://www.sacnilk.com/movie/Dude_2025,0.01
+dude,36,2025-11-21,—,https://www.sacnilk.com/movie/Dude_2025,
+dude,37,2025-11-22,—,https://www.sacnilk.com/movie/Dude_2025,
+dude,38,2025-11-23,₹1 L,https://www.sacnilk.com/movie/Dude_2025,0.01
+dude,40,2025-11-25,—,https://www.sacnilk.com/movie/Dude_2025,
+dude,43,2025-11-28,—,https://www.sacnilk.com/movie/Dude_2025,
+dude,44,2025-11-29,—,https://www.sacnilk.com/movie/Dude_2025,
+dude,45,2025-11-30,—,https://www.sacnilk.com/movie/Dude_2025,
+dude,48,2025-12-03,—,https://www.sacnilk.com/movie/Dude_2025,
+dude,49,2025-12-04,—,https://www.sacnilk.com/movie/Dude_2025,
+game_changer,1,2025-01-10,₹51.00 Cr,https://www.sacnilk.com/movie/RC15_2022,51.0
+game_changer,2,2025-01-11,₹21.60 Cr,https://www.sacnilk.com/movie/RC15_2022,21.6
+game_changer,3,2025-01-12,₹15.90 Cr,https://www.sacnilk.com/movie/RC15_2022,15.9
+game_changer,4,2025-01-13,₹7.65 Cr,https://www.sacnilk.com/movie/RC15_2022,7.65
+game_changer,5,2025-01-14,₹10.00 Cr,https://www.sacnilk.com/movie/RC15_2022,10.0
+game_changer,6,2025-01-15,₹7.00 Cr,https://www.sacnilk.com/movie/RC15_2022,7.0
+game_changer,7,2025-01-16,₹4.50 Cr,https://www.sacnilk.com/movie/RC15_2022,4.5
+game_changer,8,2025-01-17,₹2.75 Cr,https://www.sacnilk.com/movie/RC15_2022,2.75
+game_changer,9,2025-01-18,₹2.40 Cr,https://www.sacnilk.com/movie/RC15_2022,2.4
+game_changer,10,2025-01-19,₹2.60 Cr,https://www.sacnilk.com/movie/RC15_2022,2.6
+game_changer,11,2025-01-20,₹1.00 Cr,https://www.sacnilk.com/movie/RC15_2022,1.0
+game_changer,12,2025-01-21,₹90 L,https://www.sacnilk.com/movie/RC15_2022,0.9
+game_changer,13,2025-01-22,₹80 L,https://www.sacnilk.com/movie/RC15_2022,0.8
+game_changer,14,2025-01-23,₹70 L,https://www.sacnilk.com/movie/RC15_2022,0.7
+game_changer,15,2025-01-24,₹31 L,https://www.sacnilk.com/movie/RC15_2022,0.31
+game_changer,16,2025-01-25,₹33 L,https://www.sacnilk.com/movie/RC15_2022,0.33
+game_changer,17,2025-01-26,₹42 L,https://www.sacnilk.com/movie/RC15_2022,0.42
+game_changer,18,2025-01-27,₹25 L,https://www.sacnilk.com/movie/RC15_2022,0.25
+game_changer,19,2025-01-28,₹24 L,https://www.sacnilk.com/movie/RC15_2022,0.24
+game_changer,20,2025-01-29,₹23 L,https://www.sacnilk.com/movie/RC15_2022,0.23
+game_changer,21,2025-01-30,₹18 L,https://www.sacnilk.com/movie/RC15_2022,0.18
+game_changer,22,2025-01-31,₹8 L,https://www.sacnilk.com/movie/RC15_2022,0.08
+game_changer,23,2025-02-01,₹6 L,https://www.sacnilk.com/movie/RC15_2022,0.06
+game_changer,24,2025-02-02,₹5 L,https://www.sacnilk.com/movie/RC15_2022,0.05
+game_changer,25,2025-02-03,₹3 L,https://www.sacnilk.com/movie/RC15_2022,0.03
+game_changer,26,2025-02-04,₹3 L,https://www.sacnilk.com/movie/RC15_2022,0.03
+game_changer,27,2025-02-05,₹4 L,https://www.sacnilk.com/movie/RC15_2022,0.04
+game_changer,28,2025-02-06,₹3 L,https://www.sacnilk.com/movie/RC15_2022,0.03
+game_changer,29,2025-02-07,₹2 L,https://www.sacnilk.com/movie/RC15_2022,0.02
+game_changer,30,2025-02-08,₹2 L,https://www.sacnilk.com/movie/RC15_2022,0.02
+game_changer,31,2025-02-09,₹2 L,https://www.sacnilk.com/movie/RC15_2022,0.02
+game_changer,32,2025-02-10,₹2 L,https://www.sacnilk.com/movie/RC15_2022,0.02
+game_changer,33,2025-02-11,₹1 L,https://www.sacnilk.com/movie/RC15_2022,0.01
+game_changer,34,2025-02-12,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,35,2025-02-13,₹1 L,https://www.sacnilk.com/movie/RC15_2022,0.01
+game_changer,60,2025-03-10,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,85,2025-04-04,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,86,2025-04-05,₹1 L,https://www.sacnilk.com/movie/RC15_2022,0.01
+game_changer,87,2025-04-06,₹1 L,https://www.sacnilk.com/movie/RC15_2022,0.01
+game_changer,88,2025-04-07,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,89,2025-04-08,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,90,2025-04-09,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,92,2025-04-11,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,94,2025-04-13,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,95,2025-04-14,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,96,2025-04-15,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,97,2025-04-16,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,98,2025-04-17,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,102,2025-04-21,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,103,2025-04-22,—,https://www.sacnilk.com/movie/RC15_2022,
+game_changer,104,2025-04-23,—,https://www.sacnilk.com/movie/RC15_2022,
+thandel,1,2025-02-07,₹11.50 Cr,https://www.sacnilk.com/movie/Thandel_2024,11.5
+thandel,2,2025-02-08,₹12.10 Cr,https://www.sacnilk.com/movie/Thandel_2024,12.1
+thandel,3,2025-02-09,₹12.75 Cr,https://www.sacnilk.com/movie/Thandel_2024,12.75
+thandel,4,2025-02-10,₹4.50 Cr,https://www.sacnilk.com/movie/Thandel_2024,4.5
+thandel,5,2025-02-11,₹3.60 Cr,https://www.sacnilk.com/movie/Thandel_2024,3.6
+thandel,6,2025-02-12,₹2.70 Cr,https://www.sacnilk.com/movie/Thandel_2024,2.7
+thandel,7,2025-02-13,₹2.25 Cr,https://www.sacnilk.com/movie/Thandel_2024,2.25
+thandel,8,2025-02-14,₹2.15 Cr,https://www.sacnilk.com/movie/Thandel_2024,2.15
+thandel,9,2025-02-15,₹2.40 Cr,https://www.sacnilk.com/movie/Thandel_2024,2.4
+thandel,10,2025-02-16,₹3.10 Cr,https://www.sacnilk.com/movie/Thandel_2024,3.1
+thandel,11,2025-02-17,₹1.15 Cr,https://www.sacnilk.com/movie/Thandel_2024,1.15
+thandel,12,2025-02-18,₹1.00 Cr,https://www.sacnilk.com/movie/Thandel_2024,1.0
+thandel,13,2025-02-19,₹80 L,https://www.sacnilk.com/movie/Thandel_2024,0.8
+thandel,14,2025-02-20,₹70 L,https://www.sacnilk.com/movie/Thandel_2024,0.7
+thandel,15,2025-02-21,₹60 L,https://www.sacnilk.com/movie/Thandel_2024,0.6
+thandel,16,2025-02-22,₹85 L,https://www.sacnilk.com/movie/Thandel_2024,0.85
+thandel,17,2025-02-23,₹95 L,https://www.sacnilk.com/movie/Thandel_2024,0.95
+thandel,18,2025-02-24,₹50 L,https://www.sacnilk.com/movie/Thandel_2024,0.5
+thandel,19,2025-02-25,₹45 L,https://www.sacnilk.com/movie/Thandel_2024,0.45
+thandel,20,2025-02-26,₹56 L,https://www.sacnilk.com/movie/Thandel_2024,0.56
+thandel,21,2025-02-27,₹44 L,https://www.sacnilk.com/movie/Thandel_2024,0.44
+thandel,22,2025-02-28,₹18 L,https://www.sacnilk.com/movie/Thandel_2024,0.18
+thandel,23,2025-03-01,₹26 L,https://www.sacnilk.com/movie/Thandel_2024,0.26
+thandel,24,2025-03-02,₹25 L,https://www.sacnilk.com/movie/Thandel_2024,0.25
+thandel,25,2025-03-03,₹5 L,https://www.sacnilk.com/movie/Thandel_2024,0.05
+thandel,26,2025-03-04,₹5 L,https://www.sacnilk.com/movie/Thandel_2024,0.05
+thandel,27,2025-03-05,₹4 L,https://www.sacnilk.com/movie/Thandel_2024,0.04
+thandel,28,2025-03-06,₹2 L,https://www.sacnilk.com/movie/Thandel_2024,0.02
+thandel,29,2025-03-07,₹2 L,https://www.sacnilk.com/movie/Thandel_2024,0.02
+thandel,30,2025-03-08,₹1 L,https://www.sacnilk.com/movie/Thandel_2024,0.01
+thandel,31,2025-03-09,₹5 L,https://www.sacnilk.com/movie/Thandel_2024,0.05
+thandel,32,2025-03-10,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,33,2025-03-11,₹1 L,https://www.sacnilk.com/movie/Thandel_2024,0.01
+thandel,34,2025-03-12,₹1 L,https://www.sacnilk.com/movie/Thandel_2024,0.01
+thandel,35,2025-03-13,₹1 L,https://www.sacnilk.com/movie/Thandel_2024,0.01
+thandel,36,2025-03-14,₹1 L,https://www.sacnilk.com/movie/Thandel_2024,0.01
+thandel,37,2025-03-15,₹1 L,https://www.sacnilk.com/movie/Thandel_2024,0.01
+thandel,38,2025-03-16,₹1 L,https://www.sacnilk.com/movie/Thandel_2024,0.01
+thandel,39,2025-03-17,₹1 L,https://www.sacnilk.com/movie/Thandel_2024,0.01
+thandel,40,2025-03-18,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,41,2025-03-19,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,42,2025-03-20,₹1 L,https://www.sacnilk.com/movie/Thandel_2024,0.01
+thandel,44,2025-03-22,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,45,2025-03-23,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,46,2025-03-24,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,47,2025-03-25,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,48,2025-03-26,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,49,2025-03-27,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,50,2025-03-28,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,51,2025-03-29,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,52,2025-03-30,—,https://www.sacnilk.com/movie/Thandel_2024,
+thandel,53,2025-03-31,—,https://www.sacnilk.com/movie/Thandel_2024,
+mirai,1,2025-09-12,₹13.00 Cr,https://www.sacnilk.com/movie/Mirai_2025,13.0
+mirai,2,2025-09-13,₹15.00 Cr,https://www.sacnilk.com/movie/Mirai_2025,15.0
+mirai,3,2025-09-14,₹16.60 Cr,https://www.sacnilk.com/movie/Mirai_2025,16.6
+mirai,4,2025-09-15,₹6.40 Cr,https://www.sacnilk.com/movie/Mirai_2025,6.4
+mirai,5,2025-09-16,₹6.00 Cr,https://www.sacnilk.com/movie/Mirai_2025,6.0
+mirai,6,2025-09-17,₹4.75 Cr,https://www.sacnilk.com/movie/Mirai_2025,4.75
+mirai,7,2025-09-18,₹3.35 Cr,https://www.sacnilk.com/movie/Mirai_2025,3.35
+mirai,8,2025-09-19,₹2.75 Cr,https://www.sacnilk.com/movie/Mirai_2025,2.75
+mirai,9,2025-09-20,₹5.15 Cr,https://www.sacnilk.com/movie/Mirai_2025,5.15
+mirai,10,2025-09-21,₹6.00 Cr,https://www.sacnilk.com/movie/Mirai_2025,6.0
+mirai,11,2025-09-22,₹1.80 Cr,https://www.sacnilk.com/movie/Mirai_2025,1.8
+mirai,12,2025-09-23,₹1.75 Cr,https://www.sacnilk.com/movie/Mirai_2025,1.75
+mirai,13,2025-09-24,₹1.50 Cr,https://www.sacnilk.com/movie/Mirai_2025,1.5
+mirai,14,2025-09-25,₹45 L,https://www.sacnilk.com/movie/Mirai_2025,0.45
+mirai,15,2025-09-26,₹80 L,https://www.sacnilk.com/movie/Mirai_2025,0.8
+mirai,16,2025-09-27,₹1.35 Cr,https://www.sacnilk.com/movie/Mirai_2025,1.35
+mirai,17,2025-09-28,₹1.60 Cr,https://www.sacnilk.com/movie/Mirai_2025,1.6
+mirai,18,2025-09-29,₹75 L,https://www.sacnilk.com/movie/Mirai_2025,0.75
+mirai,19,2025-09-30,₹1.05 Cr,https://www.sacnilk.com/movie/Mirai_2025,1.05
+mirai,20,2025-10-01,₹95 L,https://www.sacnilk.com/movie/Mirai_2025,0.95
+mirai,21,2025-10-02,₹1.00 Cr,https://www.sacnilk.com/movie/Mirai_2025,1.0
+mirai,22,2025-10-03,₹65 L,https://www.sacnilk.com/movie/Mirai_2025,0.65
+mirai,23,2025-10-04,₹63 L,https://www.sacnilk.com/movie/Mirai_2025,0.63
+mirai,24,2025-10-05,₹62 L,https://www.sacnilk.com/movie/Mirai_2025,0.62
+mirai,25,2025-10-06,₹10 L,https://www.sacnilk.com/movie/Mirai_2025,0.1
+mirai,26,2025-10-07,₹8 L,https://www.sacnilk.com/movie/Mirai_2025,0.08
+mirai,27,2025-10-08,₹9 L,https://www.sacnilk.com/movie/Mirai_2025,0.09
+mirai,28,2025-10-09,₹7 L,https://www.sacnilk.com/movie/Mirai_2025,0.07
+mirai,29,2025-10-10,₹12 L,https://www.sacnilk.com/movie/Mirai_2025,0.12
+mirai,30,2025-10-11,₹3 L,https://www.sacnilk.com/movie/Mirai_2025,0.03
+mirai,31,2025-10-12,₹8 L,https://www.sacnilk.com/movie/Mirai_2025,0.08
+mirai,32,2025-10-13,₹12 L,https://www.sacnilk.com/movie/Mirai_2025,0.12
+mirai,33,2025-10-14,₹10 L,https://www.sacnilk.com/movie/Mirai_2025,0.1
+mirai,34,2025-10-15,₹10 L,https://www.sacnilk.com/movie/Mirai_2025,0.1
+mirai,35,2025-10-16,₹6 L,https://www.sacnilk.com/movie/Mirai_2025,0.06
+mirai,36,2025-10-17,—,https://www.sacnilk.com/movie/Mirai_2025,
+mirai,37,2025-10-18,—,https://www.sacnilk.com/movie/Mirai_2025,
+mirai,38,2025-10-19,₹1 L,https://www.sacnilk.com/movie/Mirai_2025,0.01
+mirai,39,2025-10-20,—,https://www.sacnilk.com/movie/Mirai_2025,
+mirai,40,2025-10-21,—,https://www.sacnilk.com/movie/Mirai_2025,
+mirai,56,2025-11-06,—,https://www.sacnilk.com/movie/Mirai_2025,
+mirai,82,2025-12-02,—,https://www.sacnilk.com/movie/Mirai_2025,
+mirai,101,2025-12-21,—,https://www.sacnilk.com/movie/Mirai_2025,
+mirai,102,2025-12-22,—,https://www.sacnilk.com/movie/Mirai_2025,
+mirai,105,2025-12-25,—,https://www.sacnilk.com/movie/Mirai_2025,
+thudarum,1,2025-04-25,₹5.25 Cr,https://www.sacnilk.com/movie/Thudarum_2025,5.25
+thudarum,2,2025-04-26,₹8.60 Cr,https://www.sacnilk.com/movie/Thudarum_2025,8.6
+thudarum,3,2025-04-27,₹10.50 Cr,https://www.sacnilk.com/movie/Thudarum_2025,10.5
+thudarum,4,2025-04-28,₹7.15 Cr,https://www.sacnilk.com/movie/Thudarum_2025,7.15
+thudarum,5,2025-04-29,₹6.50 Cr,https://www.sacnilk.com/movie/Thudarum_2025,6.5
+thudarum,6,2025-04-30,₹6.40 Cr,https://www.sacnilk.com/movie/Thudarum_2025,6.4
+thudarum,7,2025-05-01,₹7.00 Cr,https://www.sacnilk.com/movie/Thudarum_2025,7.0
+thudarum,8,2025-05-02,₹5.40 Cr,https://www.sacnilk.com/movie/Thudarum_2025,5.4
+thudarum,9,2025-05-03,₹6.20 Cr,https://www.sacnilk.com/movie/Thudarum_2025,6.2
+thudarum,10,2025-05-04,₹7.50 Cr,https://www.sacnilk.com/movie/Thudarum_2025,7.5
+thudarum,11,2025-05-05,₹4.85 Cr,https://www.sacnilk.com/movie/Thudarum_2025,4.85
+thudarum,12,2025-05-06,₹4.40 Cr,https://www.sacnilk.com/movie/Thudarum_2025,4.4
+thudarum,13,2025-05-07,₹3.75 Cr,https://www.sacnilk.com/movie/Thudarum_2025,3.75
+thudarum,14,2025-05-08,₹3.25 Cr,https://www.sacnilk.com/movie/Thudarum_2025,3.25
+thudarum,15,2025-05-09,₹3.00 Cr,https://www.sacnilk.com/movie/Thudarum_2025,3.0
+thudarum,16,2025-05-10,₹4.00 Cr,https://www.sacnilk.com/movie/Thudarum_2025,4.0
+thudarum,17,2025-05-11,₹5.00 Cr,https://www.sacnilk.com/movie/Thudarum_2025,5.0
+thudarum,18,2025-05-12,₹2.90 Cr,https://www.sacnilk.com/movie/Thudarum_2025,2.9
+thudarum,19,2025-05-13,₹2.30 Cr,https://www.sacnilk.com/movie/Thudarum_2025,2.3
+thudarum,20,2025-05-14,₹1.90 Cr,https://www.sacnilk.com/movie/Thudarum_2025,1.9
+thudarum,21,2025-05-15,₹1.70 Cr,https://www.sacnilk.com/movie/Thudarum_2025,1.7
+thudarum,22,2025-05-16,₹1.50 Cr,https://www.sacnilk.com/movie/Thudarum_2025,1.5
+thudarum,23,2025-05-17,₹1.75 Cr,https://www.sacnilk.com/movie/Thudarum_2025,1.75
+thudarum,24,2025-05-18,₹2.50 Cr,https://www.sacnilk.com/movie/Thudarum_2025,2.5
+thudarum,25,2025-05-19,₹1.15 Cr,https://www.sacnilk.com/movie/Thudarum_2025,1.15
+thudarum,26,2025-05-20,₹1.05 Cr,https://www.sacnilk.com/movie/Thudarum_2025,1.05
+thudarum,27,2025-05-21,₹95 L,https://www.sacnilk.com/movie/Thudarum_2025,0.95
+thudarum,28,2025-05-22,₹90 L,https://www.sacnilk.com/movie/Thudarum_2025,0.9
+thudarum,29,2025-05-23,₹60 L,https://www.sacnilk.com/movie/Thudarum_2025,0.6
+thudarum,30,2025-05-24,₹70 L,https://www.sacnilk.com/movie/Thudarum_2025,0.7
+thudarum,31,2025-05-25,₹1.00 Cr,https://www.sacnilk.com/movie/Thudarum_2025,1.0
+thudarum,32,2025-05-26,₹52 L,https://www.sacnilk.com/movie/Thudarum_2025,0.52
+thudarum,33,2025-05-27,₹38 L,https://www.sacnilk.com/movie/Thudarum_2025,0.38
+thudarum,34,2025-05-28,₹35 L,https://www.sacnilk.com/movie/Thudarum_2025,0.35
+thudarum,35,2025-05-29,₹30 L,https://www.sacnilk.com/movie/Thudarum_2025,0.3
+thudarum,36,2025-05-30,₹10 L,https://www.sacnilk.com/movie/Thudarum_2025,0.1
+thudarum,37,2025-05-31,₹15 L,https://www.sacnilk.com/movie/Thudarum_2025,0.15
+thudarum,38,2025-06-01,₹11 L,https://www.sacnilk.com/movie/Thudarum_2025,0.11
+thudarum,39,2025-06-02,₹6 L,https://www.sacnilk.com/movie/Thudarum_2025,0.06
+thudarum,40,2025-06-03,₹5 L,https://www.sacnilk.com/movie/Thudarum_2025,0.05
+thudarum,41,2025-06-04,₹4 L,https://www.sacnilk.com/movie/Thudarum_2025,0.04
+thudarum,42,2025-06-05,₹3 L,https://www.sacnilk.com/movie/Thudarum_2025,0.03
+thudarum,43,2025-06-06,₹5 L,https://www.sacnilk.com/movie/Thudarum_2025,0.05
+thudarum,44,2025-06-07,₹4 L,https://www.sacnilk.com/movie/Thudarum_2025,0.04
+thudarum,45,2025-06-08,₹4 L,https://www.sacnilk.com/movie/Thudarum_2025,0.04
+thudarum,46,2025-06-09,₹2 L,https://www.sacnilk.com/movie/Thudarum_2025,0.02
+thudarum,47,2025-06-10,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,48,2025-06-11,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,49,2025-06-12,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,50,2025-06-13,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,51,2025-06-14,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,52,2025-06-15,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,53,2025-06-16,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,54,2025-06-17,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,55,2025-06-18,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,56,2025-06-19,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,57,2025-06-20,—,https://www.sacnilk.com/movie/Thudarum_2025,
+thudarum,58,2025-06-21,—,https://www.sacnilk.com/movie/Thudarum_2025,
+thudarum,59,2025-06-22,—,https://www.sacnilk.com/movie/Thudarum_2025,
+thudarum,60,2025-06-23,₹1 L,https://www.sacnilk.com/movie/Thudarum_2025,0.01
+thudarum,61,2025-06-24,—,https://www.sacnilk.com/movie/Thudarum_2025,
+su_from_so,1,2025-07-25,₹78 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.78
+su_from_so,2,2025-07-26,₹2.17 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,2.17
+su_from_so,3,2025-07-27,₹3.50 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,3.5
+su_from_so,4,2025-07-28,₹3.05 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,3.05
+su_from_so,5,2025-07-29,₹3.40 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,3.4
+su_from_so,6,2025-07-30,₹3.50 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,3.5
+su_from_so,7,2025-07-31,₹3.75 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,3.75
+su_from_so,8,2025-08-01,₹3.80 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,3.8
+su_from_so,9,2025-08-02,₹5.40 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,5.4
+su_from_so,10,2025-08-03,₹6.55 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,6.55
+su_from_so,11,2025-08-04,₹3.70 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,3.7
+su_from_so,12,2025-08-05,₹3.40 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,3.4
+su_from_so,13,2025-08-06,₹2.80 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,2.8
+su_from_so,14,2025-08-07,₹2.25 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,2.25
+su_from_so,15,2025-08-08,₹3.10 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,3.1
+su_from_so,16,2025-08-09,₹6.00 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,6.0
+su_from_so,17,2025-08-10,₹6.95 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,6.95
+su_from_so,18,2025-08-11,₹2.05 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,2.05
+su_from_so,19,2025-08-12,₹1.70 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,1.7
+su_from_so,20,2025-08-13,₹1.60 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,1.6
+su_from_so,21,2025-08-14,₹1.10 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,1.1
+su_from_so,22,2025-08-15,₹2.55 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,2.55
+su_from_so,23,2025-08-16,₹2.20 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,2.2
+su_from_so,24,2025-08-17,₹2.55 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,2.55
+su_from_so,25,2025-08-18,₹1.05 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,1.05
+su_from_so,26,2025-08-19,₹95 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.95
+su_from_so,27,2025-08-20,₹80 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.8
+su_from_so,28,2025-08-21,₹70 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.7
+su_from_so,29,2025-08-22,₹75 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.75
+su_from_so,30,2025-08-23,₹1.70 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,1.7
+su_from_so,31,2025-08-24,₹2.10 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,2.1
+su_from_so,32,2025-08-25,₹46 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.46
+su_from_so,33,2025-08-26,₹56 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.56
+su_from_so,34,2025-08-27,₹1.05 Cr,https://www.sacnilk.com/movie/Su_From_So_2025,1.05
+su_from_so,35,2025-08-28,₹42 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.42
+su_from_so,36,2025-08-29,₹30 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.3
+su_from_so,37,2025-08-30,₹66 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.66
+su_from_so,38,2025-08-31,₹80 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.8
+su_from_so,39,2025-09-01,₹16 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.16
+su_from_so,40,2025-09-02,₹18 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.18
+su_from_so,41,2025-09-03,₹19 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.19
+su_from_so,42,2025-09-04,₹21 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.21
+su_from_so,43,2025-09-05,₹27 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.27
+su_from_so,44,2025-09-06,₹22 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.22
+su_from_so,45,2025-09-07,₹37 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.37
+su_from_so,46,2025-09-08,₹7 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.07
+su_from_so,47,2025-09-09,₹5 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.05
+su_from_so,48,2025-09-10,₹4 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.04
+su_from_so,49,2025-09-11,₹4 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.04
+su_from_so,50,2025-09-12,₹2 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.02
+su_from_so,51,2025-09-13,₹5 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.05
+su_from_so,52,2025-09-14,₹6 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.06
+su_from_so,53,2025-09-15,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,54,2025-09-16,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,55,2025-09-17,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,56,2025-09-18,₹4 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.04
+su_from_so,57,2025-09-19,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,58,2025-09-20,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,59,2025-09-21,₹2 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.02
+su_from_so,60,2025-09-22,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,61,2025-09-23,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,62,2025-09-24,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,63,2025-09-25,₹2 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.02
+su_from_so,64,2025-09-26,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,65,2025-09-27,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,66,2025-09-28,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,67,2025-09-29,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,68,2025-09-30,₹1 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.01
+su_from_so,69,2025-10-01,₹4 L,https://www.sacnilk.com/movie/Su_From_So_2025,0.04
+su_from_so,71,2025-10-03,—,https://www.sacnilk.com/movie/Su_From_So_2025,
+su_from_so,72,2025-10-04,—,https://www.sacnilk.com/movie/Su_From_So_2025,
+su_from_so,73,2025-10-05,—,https://www.sacnilk.com/movie/Su_From_So_2025,
+su_from_so,74,2025-10-06,—,https://www.sacnilk.com/movie/Su_From_So_2025,
+su_from_so,75,2025-10-07,—,https://www.sacnilk.com/movie/Su_From_So_2025,
+su_from_so,76,2025-10-08,—,https://www.sacnilk.com/movie/Su_From_So_2025,
+su_from_so,77,2025-10-09,—,https://www.sacnilk.com/movie/Su_From_So_2025,
+su_from_so,136,2025-12-07,—,https://www.sacnilk.com/movie/Su_From_So_2025,
+su_from_so,138,2025-12-09,—,https://www.sacnilk.com/movie/Su_From_So_2025,
+su_from_so,139,2025-12-10,—,https://www.sacnilk.com/movie/Su_From_So_2025,

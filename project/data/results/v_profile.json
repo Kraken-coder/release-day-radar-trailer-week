@@ -1,0 +1,37 @@
+{
+  "candidate_films": 16,
+  "eligible_films": 15,
+  "raw_comment_rows": 305447,
+  "imdb_labelled_rows": 50000,
+  "unique_comment_events": 305444,
+  "trailer_week_comment_events": 239313,
+  "raw_mb": 160.19,
+  "first_day_comments_per_hour": {
+    "game_changer": 874.7083333333334,
+    "thandel": 153.70833333333334,
+    "chhaava": 1534.1666666666667,
+    "dragon": 187.41666666666666,
+    "thudarum": 245.125,
+    "bhool_chuk_maaf": 82.79166666666667,
+    "housefull_5": 817.25,
+    "sitaare_zameen_par": 1175.2916666666667,
+    "saiyaara": 251.0,
+    "su_from_so": 37.166666666666664,
+    "dhadak_2": 148.625,
+    "madharaasi": 0.3333333333333333,
+    "jolly_llb_3": 213.04166666666666,
+    "dude": 89.375,
+    "dhurandhar": 651.75
+  },
+  "formats": [
+    "JSON",
+    "HTML tables",
+    "free text",
+    "TXT in TAR.GZ",
+    "CSV"
+  ],
+  "dominant_v": "Variety",
+  "secondary_v": "Velocity",
+  "tools": "pandas for local joins and forecasting; API pagination to reach the historical window; Spark for the required 50000+ row text exercise",
+  "limits": "Surviving top-level comments only; not unique people, historical views, replies or deleted comments"
+}
