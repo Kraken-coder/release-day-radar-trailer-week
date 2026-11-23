@@ -1,9 +1,9 @@
 scenario,model,films,mae_cr,rmse_cr
-All eligible films,Training median,15,32.723333333333336,39.06623222170267
-All eligible films,Language only,15,26.634339788582686,35.60494077204888
-All eligible films,Comments only,15,23.733830835343266,28.312016570762527
-All eligible films,Language + comments,15,24.510920728696743,29.546045014693256
-Without largest opening,Training median,14,24.949999999999996,32.395882674897344
-Without largest opening,Language only,14,24.988741412494115,33.06685536334265
-Without largest opening,Comments only,14,22.506249719257408,27.96737231862098
-Without largest opening,Language + comments,14,23.76935815955876,29.541393282126595
+All eligible films,Training median,49,19.58581632653061,33.5206430838536
+All eligible films,Language only,49,19.247717993377965,32.01626718005698
+All eligible films,Comments only,49,13.83507537454699,22.693789834600143
+All eligible films,Language + comments,49,13.996503053603247,22.920030390409828
+Without largest opening,Training median,48,17.84958333333333,30.138568521082746
+Without largest opening,Language only,48,17.426868819556116,28.925203344163393
+Without largest opening,Comments only,48,13.175052926259164,21.98201035871445
+Without largest opening,Language + comments,48,13.328885558410109,22.216135431901392

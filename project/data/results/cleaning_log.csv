@@ -1,13 +1,13 @@
 problem,rows_affected,action,reason
-Film titles and legacy source URLs differ,16,Join on manually verified canonical film IDs,Madharaasi/Madharasi and Game Changer/RC15 refer to the same respective films
-Repeated comment IDs across collection pages,3,Keep one row per comment ID,"The unit is a posted comment, not copied text"
-"HTML, URLs, account mentions and whitespace in text",305444,Strip noise for text diagnostics,Do not change the timestamped event count
-Repeated text with different IDs,42843,Retain events; report repetition separately,Repeated slogans can be genuine or promotional; users are not identified
-Dates and counts encoded as strings,305460,Cast timestamps to UTC and counters to nullable integers,Make elapsed-day windows explicit
-"Collections use crore, lakh or Indian comma grouping",992,Convert to INR crores,Use one outcome unit
-Missing daily collection amounts,161,Keep missing; reject incomplete target windows,Missing is not zero
-Inconsistent budget values,16,Preserve text and exclude budgets from predictors,Do not invent midpoints or silently mix cost definitions
+Film titles and legacy source URLs differ,51,Join on manually verified canonical film IDs,Madharaasi/Madharasi and Game Changer/RC15 refer to the same respective films
+Repeated comment IDs across collection pages,6,Keep one row per comment ID,"The unit is a posted comment, not copied text"
+"HTML, URLs, account mentions and whitespace in text",454000,Strip noise for text diagnostics,Do not change the timestamped event count
+Repeated text with different IDs,71274,Retain events; report repetition separately,Repeated slogans can be genuine or promotional; users are not identified
+Dates and counts encoded as strings,454051,Cast timestamps to UTC and counters to nullable integers,Make elapsed-day windows explicit
+"Collections use crore, lakh or Indian comma grouping",2249,Convert to INR crores,Use one outcome unit
+Missing daily collection amounts,345,Keep missing; reject incomplete target windows,Missing is not zero
+Inconsistent budget values,51,Preserve text and exclude budgets from predictors,Do not invent midpoints or silently mix cost definitions
 Trailer week overlaps theatrical release,1,Exclude from prediction,Do not turn unavailable or post-release information into a pre-release feature
 Comment history incomplete or not collected,1,Exclude from prediction,Do not turn unavailable or post-release information into a pre-release feature
-Missing three-day India nett target,0,Exclude from prediction,Do not turn unavailable or post-release information into a pre-release feature
-Current views and likes measured after release,16,Keep as provenance; exclude from predictors,Avoid temporal leakage
+Missing three-day India nett target,1,Exclude from prediction,Do not turn unavailable or post-release information into a pre-release feature
+Current views and likes measured after release,51,Keep as provenance; exclude from predictors,Avoid temporal leakage

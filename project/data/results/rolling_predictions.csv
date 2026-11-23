@@ -1,0 +1,129 @@
+film_id,title,release_date,opening_weekend_cr,fold,model,predicted_cr,training_films
+thudarum,Thudarum,2025-04-25,24.35,1,Training median,4.55,17
+bhool_chuk_maaf,Bhool Chuk Maaf,2025-05-23,28.0,1,Training median,4.55,17
+kuladalli_keelyavudo_2025,Kuladalli Keelyavudo,2025-05-23,0.32,1,Training median,4.55,17
+narivetta_2025,Narivetta,2025-05-23,5.75,1,Training median,4.55,17
+saunkan_saunkanay_2_2025,Saunkan Saunkanay 2,2025-05-30,7.5,1,Training median,4.55,17
+housefull_5,Housefull 5,2025-06-06,87.5,1,Training median,4.55,17
+sitaare_zameen_par,Sitaare Zameen Par,2025-06-20,58.15,1,Training median,4.55,17
+3bhk_2025,3BHK,2025-07-04,5.199999999999999,1,Training median,4.55,17
+metro_in_dino_2025,Metro In Dino,2025-07-04,16.75,1,Training median,4.55,17
+aankhon_ki_gustaakhiyan_2025,Aankhon Ki Gustaakhiyan,2025-07-11,1.3,1,Training median,4.55,17
+thudarum,Thudarum,2025-04-25,24.35,1,Language only,6.137819065422154,17
+bhool_chuk_maaf,Bhool Chuk Maaf,2025-05-23,28.0,1,Language only,14.261434936541688,17
+kuladalli_keelyavudo_2025,Kuladalli Keelyavudo,2025-05-23,0.32,1,Language only,6.137819065422154,17
+narivetta_2025,Narivetta,2025-05-23,5.75,1,Language only,6.137819065422154,17
+saunkan_saunkanay_2_2025,Saunkan Saunkanay 2,2025-05-30,7.5,1,Language only,6.137819065422154,17
+housefull_5,Housefull 5,2025-06-06,87.5,1,Language only,14.261434936541688,17
+sitaare_zameen_par,Sitaare Zameen Par,2025-06-20,58.15,1,Language only,14.261434936541688,17
+3bhk_2025,3BHK,2025-07-04,5.199999999999999,1,Language only,6.137819065422154,17
+metro_in_dino_2025,Metro In Dino,2025-07-04,16.75,1,Language only,14.261434936541688,17
+aankhon_ki_gustaakhiyan_2025,Aankhon Ki Gustaakhiyan,2025-07-11,1.3,1,Language only,14.261434936541688,17
+thudarum,Thudarum,2025-04-25,24.35,1,Comments only,14.203546376156774,17
+bhool_chuk_maaf,Bhool Chuk Maaf,2025-05-23,28.0,1,Comments only,6.372672796404926,17
+kuladalli_keelyavudo_2025,Kuladalli Keelyavudo,2025-05-23,0.32,1,Comments only,7.975248047591858,17
+narivetta_2025,Narivetta,2025-05-23,5.75,1,Comments only,0.0,17
+saunkan_saunkanay_2_2025,Saunkan Saunkanay 2,2025-05-30,7.5,1,Comments only,2.3903327611813654,17
+housefull_5,Housefull 5,2025-06-06,87.5,1,Comments only,45.60545300033183,17
+sitaare_zameen_par,Sitaare Zameen Par,2025-06-20,58.15,1,Comments only,60.12090450115395,17
+3bhk_2025,3BHK,2025-07-04,5.199999999999999,1,Comments only,6.996743973717506,17
+metro_in_dino_2025,Metro In Dino,2025-07-04,16.75,1,Comments only,24.09663151779808,17
+aankhon_ki_gustaakhiyan_2025,Aankhon Ki Gustaakhiyan,2025-07-11,1.3,1,Comments only,2.9419053219102334,17
+thudarum,Thudarum,2025-04-25,24.35,1,Language + comments,17.69893251077609,17
+bhool_chuk_maaf,Bhool Chuk Maaf,2025-05-23,28.0,1,Language + comments,4.9000349316285,17
+kuladalli_keelyavudo_2025,Kuladalli Keelyavudo,2025-05-23,0.32,1,Language + comments,9.576788181194358,17
+narivetta_2025,Narivetta,2025-05-23,5.75,1,Language + comments,0.0,17
+saunkan_saunkanay_2_2025,Saunkan Saunkanay 2,2025-05-30,7.5,1,Language + comments,2.691973671239544,17
+housefull_5,Housefull 5,2025-06-06,87.5,1,Language + comments,42.31270831257276,17
+sitaare_zameen_par,Sitaare Zameen Par,2025-06-20,58.15,1,Language + comments,57.065559374163506,17
+3bhk_2025,3BHK,2025-07-04,5.199999999999999,1,Language + comments,8.335864365208092,17
+metro_in_dino_2025,Metro In Dino,2025-07-04,16.75,1,Language + comments,21.18153397240172,17
+aankhon_ki_gustaakhiyan_2025,Aankhon Ki Gustaakhiyan,2025-07-11,1.3,1,Language + comments,1.9983486406400557,17
+saiyaara,Saiyaara,2025-07-18,83.25,2,Training median,7.5,27
+sarbala_ji_2025,Sarbala Ji,2025-07-18,4.6,2,Training median,7.5,27
+maareesan_2025,Maareesan,2025-07-25,3.51,2,Training median,7.5,27
+su_from_so,Su From So,2025-07-25,6.45,2,Training median,7.5,27
+thalaivan_thalaivii_2025,Thalaivan Thalaivii,2025-07-25,22.75,2,Training median,7.5,27
+dhadak_2,Dhadak 2,2025-08-01,11.4,2,Training median,7.5,27
+madharaasi,Madharaasi,2025-09-05,37.15,2,Training median,7.5,27
+dashavatar_2025,Dashavatar,2025-09-12,4.4,2,Training median,7.5,27
+kishkindhapuri_2025,Kishkindhapuri,2025-09-12,7.550000000000001,2,Training median,7.5,27
+jolly_llb_3,Jolly LLB 3,2025-09-19,53.5,2,Training median,7.5,27
+kiss_2025,Kiss,2025-09-19,2.25,2,Training median,7.5,27
+nishaanchi_2025,Nishaanchi,2025-09-19,0.93,2,Training median,7.5,27
+homebound_2025,Homebound,2025-09-26,1.4000000000000001,2,Training median,7.5,27
+saiyaara,Saiyaara,2025-07-18,83.25,2,Language only,16.75549097091024,27
+sarbala_ji_2025,Sarbala Ji,2025-07-18,4.6,2,Language only,5.938155432401084,27
+maareesan_2025,Maareesan,2025-07-25,3.51,2,Language only,5.938155432401084,27
+su_from_so,Su From So,2025-07-25,6.45,2,Language only,5.938155432401084,27
+thalaivan_thalaivii_2025,Thalaivan Thalaivii,2025-07-25,22.75,2,Language only,5.938155432401084,27
+dhadak_2,Dhadak 2,2025-08-01,11.4,2,Language only,16.75549097091024,27
+madharaasi,Madharaasi,2025-09-05,37.15,2,Language only,5.938155432401084,27
+dashavatar_2025,Dashavatar,2025-09-12,4.4,2,Language only,5.938155432401084,27
+kishkindhapuri_2025,Kishkindhapuri,2025-09-12,7.550000000000001,2,Language only,5.938155432401084,27
+jolly_llb_3,Jolly LLB 3,2025-09-19,53.5,2,Language only,16.75549097091024,27
+kiss_2025,Kiss,2025-09-19,2.25,2,Language only,5.938155432401084,27
+nishaanchi_2025,Nishaanchi,2025-09-19,0.93,2,Language only,16.75549097091024,27
+homebound_2025,Homebound,2025-09-26,1.4000000000000001,2,Language only,16.75549097091024,27
+saiyaara,Saiyaara,2025-07-18,83.25,2,Comments only,20.29170545844346,27
+sarbala_ji_2025,Sarbala Ji,2025-07-18,4.6,2,Comments only,5.575653624153982,27
+maareesan_2025,Maareesan,2025-07-25,3.51,2,Comments only,4.881741410945996,27
+su_from_so,Su From So,2025-07-25,6.45,2,Comments only,4.002641381511513,27
+thalaivan_thalaivii_2025,Thalaivan Thalaivii,2025-07-25,22.75,2,Comments only,8.651145493739724,27
+dhadak_2,Dhadak 2,2025-08-01,11.4,2,Comments only,11.240022209035827,27
+madharaasi,Madharaasi,2025-09-05,37.15,2,Comments only,0.0,27
+dashavatar_2025,Dashavatar,2025-09-12,4.4,2,Comments only,5.4593475506414,27
+kishkindhapuri_2025,Kishkindhapuri,2025-09-12,7.550000000000001,2,Comments only,4.130212161572807,27
+jolly_llb_3,Jolly LLB 3,2025-09-19,53.5,2,Comments only,15.500450606455749,27
+kiss_2025,Kiss,2025-09-19,2.25,2,Comments only,3.123834181274013,27
+nishaanchi_2025,Nishaanchi,2025-09-19,0.93,2,Comments only,1.3391619559639787,27
+homebound_2025,Homebound,2025-09-26,1.4000000000000001,2,Comments only,8.40030458920043,27
+saiyaara,Saiyaara,2025-07-18,83.25,2,Language + comments,19.836607455794898,27
+sarbala_ji_2025,Sarbala Ji,2025-07-18,4.6,2,Language + comments,5.72079445498358,27
+maareesan_2025,Maareesan,2025-07-25,3.51,2,Language + comments,5.001257880133297,27
+su_from_so,Su From So,2025-07-25,6.45,2,Language + comments,4.091594451331192,27
+thalaivan_thalaivii_2025,Thalaivan Thalaivii,2025-07-25,22.75,2,Language + comments,8.922587231778248,27
+dhadak_2,Dhadak 2,2025-08-01,11.4,2,Language + comments,10.876784585822449,27
+madharaasi,Madharaasi,2025-09-05,37.15,2,Language + comments,0.0,27
+dashavatar_2025,Dashavatar,2025-09-12,4.4,2,Language + comments,5.6001084349246755,27
+kishkindhapuri_2025,Kishkindhapuri,2025-09-12,7.550000000000001,2,Language + comments,4.223457310007748,27
+jolly_llb_3,Jolly LLB 3,2025-09-19,53.5,2,Language + comments,15.084538567931347,27
+kiss_2025,Kiss,2025-09-19,2.25,2,Language + comments,3.184702037890642,27
+nishaanchi_2025,Nishaanchi,2025-09-19,0.93,2,Language + comments,1.2126704927486185,27
+homebound_2025,Homebound,2025-09-26,1.4000000000000001,2,Language + comments,8.084361972821632,27
+dude,Dude,2025-10-17,30.75,3,Training median,6.975,40
+ikk_kudi_2025,Ikk Kudi,2025-10-31,0.6000000000000001,3,Training median,6.975,40
+agra_2025,Agra,2025-11-14,0.05,3,Training median,6.975,40
+120_bahadur_2025,120 Bahadur,2025-11-21,10.1,3,Training median,6.975,40
+asambhav_2025,Asambhav,2025-11-21,0.33999999999999997,3,Training median,6.975,40
+gustaakh_ishq_2025,Gustaakh Ishq,2025-11-28,1.2999999999999998,3,Training median,6.975,40
+tere_ishk_mein_2025,Tere Ishk Mein,2025-11-28,52.0,3,Training median,6.975,40
+dhurandhar,Dhurandhar,2025-12-05,103.0,3,Training median,6.975,40
+kis_kisko_pyaar_karoon_2_2025,Kis Kisko Pyaar Karoon 2,2025-12-12,7.25,3,Training median,6.975,40
+dude,Dude,2025-10-17,30.75,3,Language only,6.433275287092294,40
+ikk_kudi_2025,Ikk Kudi,2025-10-31,0.6000000000000001,3,Language only,6.433275287092294,40
+agra_2025,Agra,2025-11-14,0.05,3,Language only,15.015758839579501,40
+120_bahadur_2025,120 Bahadur,2025-11-21,10.1,3,Language only,15.015758839579501,40
+asambhav_2025,Asambhav,2025-11-21,0.33999999999999997,3,Language only,6.433275287092294,40
+gustaakh_ishq_2025,Gustaakh Ishq,2025-11-28,1.2999999999999998,3,Language only,15.015758839579501,40
+tere_ishk_mein_2025,Tere Ishk Mein,2025-11-28,52.0,3,Language only,15.015758839579501,40
+dhurandhar,Dhurandhar,2025-12-05,103.0,3,Language only,15.015758839579501,40
+kis_kisko_pyaar_karoon_2_2025,Kis Kisko Pyaar Karoon 2,2025-12-12,7.25,3,Language only,15.015758839579501,40
+dude,Dude,2025-10-17,30.75,3,Comments only,9.37174584444196,40
+ikk_kudi_2025,Ikk Kudi,2025-10-31,0.6000000000000001,3,Comments only,6.714464695954138,40
+agra_2025,Agra,2025-11-14,0.05,3,Comments only,0.7705270270719862,40
+120_bahadur_2025,120 Bahadur,2025-11-21,10.1,3,Comments only,17.001692411501303,40
+asambhav_2025,Asambhav,2025-11-21,0.33999999999999997,3,Comments only,0.24990213849941886,40
+gustaakh_ishq_2025,Gustaakh Ishq,2025-11-28,1.2999999999999998,3,Comments only,2.899868331184328,40
+tere_ishk_mein_2025,Tere Ishk Mein,2025-11-28,52.0,3,Comments only,22.872889188448145,40
+dhurandhar,Dhurandhar,2025-12-05,103.0,3,Comments only,33.50158309248159,40
+kis_kisko_pyaar_karoon_2_2025,Kis Kisko Pyaar Karoon 2,2025-12-12,7.25,3,Comments only,8.827414126493903,40
+dude,Dude,2025-10-17,30.75,3,Language + comments,9.297799968787462,40
+ikk_kudi_2025,Ikk Kudi,2025-10-31,0.6000000000000001,3,Language + comments,6.670842472437288,40
+agra_2025,Agra,2025-11-14,0.05,3,Language + comments,0.8022310729572195,40
+120_bahadur_2025,120 Bahadur,2025-11-21,10.1,3,Language + comments,17.11214546500989,40
+asambhav_2025,Asambhav,2025-11-21,0.33999999999999997,3,Language + comments,0.25423072002813857,40
+gustaakh_ishq_2025,Gustaakh Ishq,2025-11-28,1.2999999999999998,3,Language + comments,2.954011347005102,40
+tere_ishk_mein_2025,Tere Ishk Mein,2025-11-28,52.0,3,Language + comments,22.9853865876644,40
+dhurandhar,Dhurandhar,2025-12-05,103.0,3,Language + comments,33.600204377105456,40
+kis_kisko_pyaar_karoon_2_2025,Kis Kisko Pyaar Karoon 2,2025-12-12,7.25,3,Language + comments,8.917773399359936,40

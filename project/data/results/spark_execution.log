@@ -1,0 +1,9 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+WARNING: package sun.security.action not in java.base
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+/Users/diptanshukumar/Downloads/DataStoryTelling/project/.venv/lib/python3.12/site-packages/pyspark/testing/utils.py:127: FutureWarning: PySpark does not yet fully support pandas >= 3.0.0. Some features may not work correctly. It is recommended to use pandas < 3.0.0 for now.
+  require_minimum_pandas_version()
+26/11/23 18:23:58 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+[Stage 2:>                                                          (0 + 2) / 2][Stage 2:=============================>                             (1 + 1) / 2]                                                                                [Stage 14:>                                                         (0 + 2) / 2][Stage 14:=============================>                            (1 + 1) / 2][Stage 16:>                                                         (0 + 2) / 2]                                                                                

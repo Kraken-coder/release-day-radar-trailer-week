@@ -1,0 +1,90 @@
+[
+  {
+    "title": "More trailer comments generally went with bigger openings",
+    "subtitle": "Rank correlation 0.74 across 49 films",
+    "body": "Release Day Radar\n49 Hindi and regional films released in 2025",
+    "presenter": "Diptanshu",
+    "seconds": 40,
+    "notes": "We asked whether trailer-week YouTube engagement helps anticipate opening-weekend collections. Our main presentation finding is a positive association across 49 films, with a rank correlation of 0.74. This is not 74 percent accuracy. Comments are an attention signal that should be checked against actual demand. The report retains the separate forecasting experiment and its limitations. Our slides focus on the visible film comparisons and what a distributor can reasonably do with them."
+  },
+  {
+    "title": "Question and measurement",
+    "body": "Does trailer-week YouTube engagement predict opening-weekend collections?\n\nBuzz: top-level comments in the first 7 elapsed days after one official trailer\n\nOutcome: Friday to Sunday India nett collections, in INR crore",
+    "presenter": "Diptanshu",
+    "seconds": 35,
+    "notes": "We make engagement precise by counting surviving top-level comments posted during the first seven elapsed days after one official original-language trailer. That entire window must finish before theatrical release. We compare this with three days of India nett collections, Friday through Sunday, including all languages. Every eligible film released on a Friday. Current views and likes were collected after release, so they cannot stand in for trailer-week views. We keep them for provenance but exclude them from the forecast. We count comments in every language and script, including mixed-language text. We do not infer a comment’s language from the film category or classify sentiment."
+  },
+  {
+    "title": "49 films met the same rules",
+    "body": "135 candidates screened\n51 films configured\n49 films eligible: 24 Hindi and 25 regional\n\n354,618 comments fall inside eligible trailer weeks\nCounts include comments in every language and script",
+    "presenter": "Diptanshu",
+    "seconds": 35,
+    "notes": "The roster contains the original 16 candidates and 119 additional candidates. Source and timing checks produced 51 configured films. Two then failed the final modelling rules. Mirai’s trailer week crossed its release date. Nikita Roy did not have three usable daily collection values. This leaves 49 films and 354,618 eligible first-week comments. The regional group combines six languages. This is a selected sample with usable public sources, so it does not represent every film or every cinema audience."
+  },
+  {
+    "title": "Data flow and cleaning",
+    "body": "YouTube JSON and comment text\nWikipedia film details and Sacnilk collection tables\n\nVerified film ID → pandas cleaning → linked MySQL tables\n→ one row per film → chronological test → charts\n\nSpark separately processed 504,000 text rows",
+    "presenter": "Diptanshu",
+    "seconds": 45,
+    "notes": "The join is the main preparation task. Each source uses a verified film ID rather than relying on title spelling. We flatten YouTube JSON, standardize timestamps, remove six repeated comment IDs and convert collection strings into crores. Missing collections stay missing. We use films, trailers, daily collections and comments as four linked SQL tables, with seven example queries. Spark cleans text, measures length and counts terms across 454,000 comment events and the 50,000 IMDb benchmark reviews. That benchmark supports the text exercise and does not increase the 49-film forecasting sample. The text diagnostics use English stop words, so regional and mixed-language word-frequency results require caution. This does not affect the timestamp-based comment counts used for correlation."
+  },
+  {
+    "title": "More trailer comments usually went with larger openings",
+    "chart": "scatter",
+    "presenter": "Diptanshu",
+    "seconds": 50,
+    "notes": "Each dot is one film. Moving right means more first-week trailer comments, measured in thousands. Moving up means a larger Friday-to-Sunday opening in crores. Teal identifies Hindi films and amber identifies regional films. The overall rank correlation is 0.74, which indicates a positive association. This chart is here to answer the first part of our question directly and to show the spread rather than hiding it behind a single statistic. It does not prove that comments cause ticket sales. Several films sit close together near the origin."
+  },
+  {
+    "title": "Similar buzz can lead to different openings",
+    "chart": "normalised",
+    "presenter": "Daksh",
+    "seconds": 45,
+    "notes": "This chart compares the six most commented trailers. Each film has one bar for comments and one for opening collections. Both measures use a separate zero-to-100 scale calculated across all 49 films. Zero means the smallest observed value and 100 the largest. These are relative scores, not percentages of viewers who bought tickets. We include this chart to compare two different units without putting crores beside raw counts. Sitaare Zameen Par has more comments than Housefull 5, but a smaller opening. Buzz alone does not fix a film’s opening position."
+  },
+  {
+    "title": "More comments did not guarantee a bigger opening",
+    "table": [
+      [
+        "Film",
+        "Trailer-week comments",
+        "Opening in INR crore"
+      ],
+      [
+        "Sitaare Zameen Par",
+        "41,383",
+        "58.15"
+      ],
+      [
+        "Housefull 5",
+        "28,612",
+        "87.50"
+      ]
+    ],
+    "cue": "More online attention does not always mean more opening revenue",
+    "presenter": "Daksh",
+    "seconds": 40,
+    "notes": "Here is a concrete comparison in original units. Sitaare Zameen Par received 41,383 surviving trailer-week comments and opened at 58.15 crore. Housefull 5 received fewer comments, 28,612, but opened higher at 87.50 crore. We include these figures to make the mismatch from the previous chart tangible. The example is descriptive and does not explain what caused either result. Marketing, audience size, screens and competing releases may all matter. We selected these films to illustrate a mismatch, not as a separate statistical test."
+  },
+  {
+    "title": "Compare Hindi and regional films separately",
+    "chart": "group_scatter",
+    "presenter": "Daksh",
+    "seconds": 50,
+    "notes": "Each panel shows the actual films within one category. Each dot is one film, with comments on the horizontal axis and opening collections on the vertical axis. Both panels use the same zero-based scales for a fair visual comparison. Teal shows 24 Hindi films and amber shows 25 regional films. All comment languages are included. The rank correlations are 0.87 for Hindi and 0.39 for regional films. Regional films cluster near the origin, with a few larger releases. The regional estimate is uncertain and its bootstrap interval includes zero. These plots do not establish a significant difference between the groups or prove causation."
+  },
+  {
+    "title": "Higher comment groups had larger typical openings",
+    "chart": "association_groups",
+    "presenter": "Daksh",
+    "seconds": 45,
+    "notes": "We sort all 49 films by trailer-week comment count and split them into four roughly equal groups. The lowest group contains 13 films and the other groups contain 12 each. Each bar shows the median opening-weekend collection in that group, meaning the middle value rather than an average dominated by a blockbuster. The medians rise from about 1.30 crore through 4.48 and 20.95 crore to 60.20 crore. This is a descriptive view of the positive association across the whole sample. It does not mean extra comments cause extra revenue, and it is not a forecast or a separate validation test. Film scale and category can help explain the differences."
+  },
+  {
+    "title": "Use trailer buzz as one input to the decision",
+    "body": "Across 49 films, more comments generally went with bigger openings\nComments alone cannot decide screens or promotion spend\nCollect future trailer snapshots and compare with local demand\n\nDiptanshu 1RV23AI033 and Daksh USN pending",
+    "presenter": "Daksh",
+    "seconds": 35,
+    "notes": "Our answer is that surviving trailer-week comments are positively associated with opening collections in this selected sample. The report also describes a small chronological forecasting test, but this is not a validated screen allocation policy. Deleted comments, paid buzz, one-upload coverage and missing business inputs limit the evidence. For next Friday, use buzz to prompt checks alongside bookings and local screen economics. Record future snapshots before release and evaluate whether the signal keeps helping. Our proposed contribution split is fifty-fifty. Both team members should understand the full pipeline. AI assistance is disclosed in the report appendix."
+  }
+]

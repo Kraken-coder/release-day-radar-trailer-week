@@ -13,7 +13,7 @@ films,release_at,continuous,structured configuration and HTML extraction,"dateti
 films,runtime_raw,continuous (encoded as source text),structured configuration and HTML extraction,str
 films,budget_raw,continuous (encoded as source text),structured configuration and HTML extraction,str
 films,wiki_language,nominal,structured configuration and HTML extraction,str
-films,runtime_minutes,continuous,structured configuration and HTML extraction,int64
+films,runtime_minutes,continuous,structured configuration and HTML extraction,float64
 videos,film_id,nominal,semi-structured JSON flattened,str
 videos,video_id,nominal,semi-structured JSON flattened,str
 videos,video_title,nominal,semi-structured JSON flattened,str
@@ -49,7 +49,7 @@ model_data,release_at,continuous,structured derived features,"datetime64[us, UTC
 model_data,runtime_raw,continuous (encoded as source text),structured derived features,str
 model_data,budget_raw,continuous (encoded as source text),structured derived features,str
 model_data,wiki_language,nominal,structured derived features,str
-model_data,runtime_minutes,continuous,structured derived features,int64
+model_data,runtime_minutes,continuous,structured derived features,float64
 model_data,video_title,nominal,structured derived features,str
 model_data,trailer_at,continuous,structured derived features,"datetime64[us, UTC]"
 model_data,current_views,discrete,structured derived features,Int64

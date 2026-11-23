@@ -1,0 +1,365 @@
+{
+  "films": [
+    {
+      "title": "Game Changer",
+      "group": "Regional",
+      "trailer_week_comments": 23525.0,
+      "opening_weekend_cr": 88.5
+    },
+    {
+      "title": "Sangeet Manapmaan",
+      "group": "Regional",
+      "trailer_week_comments": 105.0,
+      "opening_weekend_cr": 1.07
+    },
+    {
+      "title": "Azaad",
+      "group": "Hindi",
+      "trailer_week_comments": 2174.0,
+      "opening_weekend_cr": 4.55
+    },
+    {
+      "title": "Emergency",
+      "group": "Hindi",
+      "trailer_week_comments": 10082.0,
+      "opening_weekend_cr": 10.35
+    },
+    {
+      "title": "Fussclass Dabhade",
+      "group": "Regional",
+      "trailer_week_comments": 1773.0,
+      "opening_weekend_cr": 1.57
+    },
+    {
+      "title": "Sky Force",
+      "group": "Hindi",
+      "trailer_week_comments": 16910.0,
+      "opening_weekend_cr": 62.25
+    },
+    {
+      "title": "Deva",
+      "group": "Hindi",
+      "trailer_week_comments": 7022.0,
+      "opening_weekend_cr": 19.15
+    },
+    {
+      "title": "Gajarama",
+      "group": "Regional",
+      "trailer_week_comments": 961.0,
+      "opening_weekend_cr": 0.04
+    },
+    {
+      "title": "Loveyapa",
+      "group": "Hindi",
+      "trailer_week_comments": 2373.0,
+      "opening_weekend_cr": 4.55
+    },
+    {
+      "title": "Thandel",
+      "group": "Regional",
+      "trailer_week_comments": 4503.0,
+      "opening_weekend_cr": 36.35
+    },
+    {
+      "title": "Bromance",
+      "group": "Regional",
+      "trailer_week_comments": 690.0,
+      "opening_weekend_cr": 3.65
+    },
+    {
+      "title": "Chhaava",
+      "group": "Hindi",
+      "trailer_week_comments": 72664.0,
+      "opening_weekend_cr": 116.5
+    },
+    {
+      "title": "Laila",
+      "group": "Regional",
+      "trailer_week_comments": 1710.0,
+      "opening_weekend_cr": 2.6
+    },
+    {
+      "title": "Dragon",
+      "group": "Regional",
+      "trailer_week_comments": 7439.0,
+      "opening_weekend_cr": 30.05
+    },
+    {
+      "title": "Crazxy",
+      "group": "Hindi",
+      "trailer_week_comments": 5186.0,
+      "opening_weekend_cr": 3.75
+    },
+    {
+      "title": "Kingston",
+      "group": "Regional",
+      "trailer_week_comments": 1070.0,
+      "opening_weekend_cr": 3.14
+    },
+    {
+      "title": "The Diplomat",
+      "group": "Hindi",
+      "trailer_week_comments": 7523.0,
+      "opening_weekend_cr": 13.3
+    },
+    {
+      "title": "Thudarum",
+      "group": "Regional",
+      "trailer_week_comments": 6228.0,
+      "opening_weekend_cr": 24.35
+    },
+    {
+      "title": "Bhool Chuk Maaf",
+      "group": "Hindi",
+      "trailer_week_comments": 2325.0,
+      "opening_weekend_cr": 28.0
+    },
+    {
+      "title": "Kuladalli Keelyavudo",
+      "group": "Regional",
+      "trailer_week_comments": 3039.0,
+      "opening_weekend_cr": 0.32
+    },
+    {
+      "title": "Narivetta",
+      "group": "Regional",
+      "trailer_week_comments": 148.0,
+      "opening_weekend_cr": 5.75
+    },
+    {
+      "title": "Saunkan Saunkanay 2",
+      "group": "Regional",
+      "trailer_week_comments": 807.0,
+      "opening_weekend_cr": 7.5
+    },
+    {
+      "title": "Housefull 5",
+      "group": "Hindi",
+      "trailer_week_comments": 28612.0,
+      "opening_weekend_cr": 87.5
+    },
+    {
+      "title": "Sitaare Zameen Par",
+      "group": "Hindi",
+      "trailer_week_comments": 41383.0,
+      "opening_weekend_cr": 58.15
+    },
+    {
+      "title": "3BHK",
+      "group": "Regional",
+      "trailer_week_comments": 2597.0,
+      "opening_weekend_cr": 5.199999999999999
+    },
+    {
+      "title": "Metro In Dino",
+      "group": "Hindi",
+      "trailer_week_comments": 12321.0,
+      "opening_weekend_cr": 16.75
+    },
+    {
+      "title": "Aankhon Ki Gustaakhiyan",
+      "group": "Hindi",
+      "trailer_week_comments": 991.0,
+      "opening_weekend_cr": 1.3
+    },
+    {
+      "title": "Saiyaara",
+      "group": "Hindi",
+      "trailer_week_comments": 9974.0,
+      "opening_weekend_cr": 83.25
+    },
+    {
+      "title": "Sarbala Ji",
+      "group": "Regional",
+      "trailer_week_comments": 1610.0,
+      "opening_weekend_cr": 4.6
+    },
+    {
+      "title": "Maareesan",
+      "group": "Regional",
+      "trailer_week_comments": 1354.0,
+      "opening_weekend_cr": 3.51
+    },
+    {
+      "title": "Su From So",
+      "group": "Regional",
+      "trailer_week_comments": 1053.0,
+      "opening_weekend_cr": 6.45
+    },
+    {
+      "title": "Thalaivan Thalaivii",
+      "group": "Regional",
+      "trailer_week_comments": 2921.0,
+      "opening_weekend_cr": 22.75
+    },
+    {
+      "title": "Dhadak 2",
+      "group": "Hindi",
+      "trailer_week_comments": 4224.0,
+      "opening_weekend_cr": 11.4
+    },
+    {
+      "title": "Madharaasi",
+      "group": "Regional",
+      "trailer_week_comments": 41.0,
+      "opening_weekend_cr": 37.15
+    },
+    {
+      "title": "Dashavatar",
+      "group": "Regional",
+      "trailer_week_comments": 1566.0,
+      "opening_weekend_cr": 4.4
+    },
+    {
+      "title": "Kishkindhapuri",
+      "group": "Regional",
+      "trailer_week_comments": 1095.0,
+      "opening_weekend_cr": 7.550000000000001
+    },
+    {
+      "title": "Jolly LLB 3",
+      "group": "Hindi",
+      "trailer_week_comments": 6715.0,
+      "opening_weekend_cr": 53.5
+    },
+    {
+      "title": "Kiss",
+      "group": "Regional",
+      "trailer_week_comments": 780.0,
+      "opening_weekend_cr": 2.25
+    },
+    {
+      "title": "Nishaanchi",
+      "group": "Hindi",
+      "trailer_week_comments": 323.0,
+      "opening_weekend_cr": 0.93
+    },
+    {
+      "title": "Homebound",
+      "group": "Hindi",
+      "trailer_week_comments": 2804.0,
+      "opening_weekend_cr": 1.4000000000000001
+    },
+    {
+      "title": "Dude",
+      "group": "Regional",
+      "trailer_week_comments": 2564.0,
+      "opening_weekend_cr": 30.75
+    },
+    {
+      "title": "Ikk Kudi",
+      "group": "Regional",
+      "trailer_week_comments": 1422.0,
+      "opening_weekend_cr": 0.6000000000000001
+    },
+    {
+      "title": "Agra",
+      "group": "Hindi",
+      "trailer_week_comments": 75.0,
+      "opening_weekend_cr": 0.05
+    },
+    {
+      "title": "120 Bahadur",
+      "group": "Hindi",
+      "trailer_week_comments": 7686.0,
+      "opening_weekend_cr": 10.1
+    },
+    {
+      "title": "Asambhav",
+      "group": "Regional",
+      "trailer_week_comments": 37.0,
+      "opening_weekend_cr": 0.33999999999999997
+    },
+    {
+      "title": "Gustaakh Ishq",
+      "group": "Hindi",
+      "trailer_week_comments": 365.0,
+      "opening_weekend_cr": 1.2999999999999998
+    },
+    {
+      "title": "Tere Ishk Mein",
+      "group": "Hindi",
+      "trailer_week_comments": 13482.0,
+      "opening_weekend_cr": 52.0
+    },
+    {
+      "title": "Dhurandhar",
+      "group": "Hindi",
+      "trailer_week_comments": 28063.0,
+      "opening_weekend_cr": 103.0
+    },
+    {
+      "title": "Kis Kisko Pyaar Karoon 2",
+      "group": "Hindi",
+      "trailer_week_comments": 2303.0,
+      "opening_weekend_cr": 7.25
+    }
+  ],
+  "normalised": [
+    {
+      "title": "Chhaava",
+      "Trailer comments": 100.0,
+      "Opening collections": 100.0
+    },
+    {
+      "title": "Sitaare Zameen Par",
+      "Trailer comments": 56.92924119129249,
+      "Opening collections": 49.896960329726944
+    },
+    {
+      "title": "Housefull 5",
+      "Trailer comments": 39.34487174191417,
+      "Opening collections": 75.09874635067834
+    },
+    {
+      "title": "Dhurandhar",
+      "Trailer comments": 38.58895452104589,
+      "Opening collections": 88.4080370942813
+    },
+    {
+      "title": "Game Changer",
+      "Trailer comments": 32.34058958789431,
+      "Opening collections": 75.95741026962047
+    },
+    {
+      "title": "Sky Force",
+      "Trailer comments": 23.23240668071103,
+      "Opening collections": 53.41748239738967
+    }
+  ],
+  "errors": [
+    21.78950950883287,
+    14.893247994831112
+  ],
+  "comment_groups": [
+    {
+      "comment_group": "Lowest",
+      "films": 13,
+      "min_comments": 37.0,
+      "max_comments": 1053.0,
+      "median_opening_cr": 1.3
+    },
+    {
+      "comment_group": "Lower middle",
+      "films": 12,
+      "min_comments": 1070.0,
+      "max_comments": 2373.0,
+      "median_opening_cr": 4.475
+    },
+    {
+      "comment_group": "Upper middle",
+      "films": 12,
+      "min_comments": 2564.0,
+      "max_comments": 7439.0,
+      "median_opening_cr": 20.95
+    },
+    {
+      "comment_group": "Highest",
+      "films": 12,
+      "min_comments": 7523.0,
+      "max_comments": 72664.0,
+      "median_opening_cr": 60.2
+    }
+  ],
+  "source_note": "Study snapshot accessed 23 November 2026. YouTube Data API v3 and Sacnilk. Per-film URLs and access times: data/results/source_register.csv. Example trailer: https://www.youtube.com/watch?v=zHiKFSBO_JE. Example collections: https://www.sacnilk.com/movie/RC15_2022."
+}

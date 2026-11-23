@@ -1,17 +1,53 @@
 film_id,title,group,release_date,opening_weekend_cr,outside_training_comment_range,model,predicted_cr
-madharaasi,Madharaasi,Regional,2025-09-05,37.15,True,Training median,36.35
-jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Training median,36.35
-dude,Dude,Regional,2025-10-17,30.75,False,Training median,36.35
-dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Training median,36.35
-madharaasi,Madharaasi,Regional,2025-09-05,37.15,True,Language only,28.51030308692682
-jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Language only,49.36487594598818
-dude,Dude,Regional,2025-10-17,30.75,False,Language only,28.51030308692682
-dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Language only,49.36487594598818
-madharaasi,Madharaasi,Regional,2025-09-05,37.15,True,Comments only,1.1245312465851016
-jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Comments only,32.166535067217204
-dude,Dude,Regional,2025-10-17,30.75,False,Comments only,18.693900736006153
-dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Comments only,70.94583057636565
-madharaasi,Madharaasi,Regional,2025-09-05,37.15,True,Language + comments,1.1597653538256736
-jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Language + comments,33.40499668092654
-dude,Dude,Regional,2025-10-17,30.75,False,Language + comments,18.1785498112833
-dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Language + comments,72.52551739927762
+jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Training median,7.525
+kiss_2025,Kiss,Regional,2025-09-19,2.25,False,Training median,7.525
+nishaanchi_2025,Nishaanchi,Hindi,2025-09-19,0.93,False,Training median,7.525
+homebound_2025,Homebound,Hindi,2025-09-26,1.4000000000000001,False,Training median,7.525
+dude,Dude,Regional,2025-10-17,30.75,False,Training median,7.525
+ikk_kudi_2025,Ikk Kudi,Regional,2025-10-31,0.6000000000000001,False,Training median,7.525
+agra_2025,Agra,Hindi,2025-11-14,0.05,False,Training median,7.525
+120_bahadur_2025,120 Bahadur,Hindi,2025-11-21,10.1,False,Training median,7.525
+asambhav_2025,Asambhav,Regional,2025-11-21,0.33999999999999997,True,Training median,7.525
+gustaakh_ishq_2025,Gustaakh Ishq,Hindi,2025-11-28,1.2999999999999998,False,Training median,7.525
+tere_ishk_mein_2025,Tere Ishk Mein,Hindi,2025-11-28,52.0,False,Training median,7.525
+dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Training median,7.525
+kis_kisko_pyaar_karoon_2_2025,Kis Kisko Pyaar Karoon 2,Hindi,2025-12-12,7.25,False,Training median,7.525
+jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Language only,18.24886876360564
+kiss_2025,Kiss,Regional,2025-09-19,2.25,False,Language only,6.743508662005199
+nishaanchi_2025,Nishaanchi,Hindi,2025-09-19,0.93,False,Language only,18.24886876360564
+homebound_2025,Homebound,Hindi,2025-09-26,1.4000000000000001,False,Language only,18.24886876360564
+dude,Dude,Regional,2025-10-17,30.75,False,Language only,6.743508662005199
+ikk_kudi_2025,Ikk Kudi,Regional,2025-10-31,0.6000000000000001,False,Language only,6.743508662005199
+agra_2025,Agra,Hindi,2025-11-14,0.05,False,Language only,18.24886876360564
+120_bahadur_2025,120 Bahadur,Hindi,2025-11-21,10.1,False,Language only,18.24886876360564
+asambhav_2025,Asambhav,Regional,2025-11-21,0.33999999999999997,True,Language only,6.743508662005199
+gustaakh_ishq_2025,Gustaakh Ishq,Hindi,2025-11-28,1.2999999999999998,False,Language only,18.24886876360564
+tere_ishk_mein_2025,Tere Ishk Mein,Hindi,2025-11-28,52.0,False,Language only,18.24886876360564
+dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Language only,18.24886876360564
+kis_kisko_pyaar_karoon_2_2025,Kis Kisko Pyaar Karoon 2,Hindi,2025-12-12,7.25,False,Language only,18.24886876360564
+jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Comments only,16.025352565996414
+kiss_2025,Kiss,Regional,2025-09-19,2.25,False,Comments only,5.229150011883523
+nishaanchi_2025,Nishaanchi,Hindi,2025-09-19,0.93,False,Comments only,3.129266987588888
+homebound_2025,Homebound,Hindi,2025-09-26,1.4000000000000001,False,Comments only,10.321621182374443
+dude,Dude,Regional,2025-10-17,30.75,False,Comments only,9.858162949566218
+ikk_kudi_2025,Ikk Kudi,Regional,2025-10-31,0.6000000000000001,False,Comments only,7.244874132450226
+agra_2025,Agra,Hindi,2025-11-14,0.05,False,Comments only,1.0970234872047793
+120_bahadur_2025,120 Bahadur,Hindi,2025-11-21,10.1,False,Comments only,17.134313712690158
+asambhav_2025,Asambhav,Regional,2025-11-21,0.33999999999999997,True,Comments only,0.516819156279264
+gustaakh_ishq_2025,Gustaakh Ishq,Hindi,2025-11-28,1.2999999999999998,False,Comments only,3.3712905170188194
+tere_ishk_mein_2025,Tere Ishk Mein,Hindi,2025-11-28,52.0,False,Comments only,22.579505901795564
+dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Comments only,32.21267191072435
+kis_kisko_pyaar_karoon_2_2025,Kis Kisko Pyaar Karoon 2,Hindi,2025-12-12,7.25,False,Comments only,9.327094959336915
+jolly_llb_3,Jolly LLB 3,Hindi,2025-09-19,53.5,False,Language + comments,17.224480069976398
+kiss_2025,Kiss,Regional,2025-09-19,2.25,False,Language + comments,5.037962781111918
+nishaanchi_2025,Nishaanchi,Hindi,2025-09-19,0.93,False,Language + comments,3.7927218819718216
+homebound_2025,Homebound,Hindi,2025-09-26,1.4000000000000001,False,Language + comments,11.404838178466571
+dude,Dude,Regional,2025-10-17,30.75,False,Language + comments,9.196003117760053
+ikk_kudi_2025,Ikk Kudi,Regional,2025-10-31,0.6000000000000001,False,Language + comments,6.864829169720857
+agra_2025,Agra,Hindi,2025-11-14,0.05,False,Language + comments,1.5300283985669594
+120_bahadur_2025,120 Bahadur,Hindi,2025-11-21,10.1,False,Language + comments,18.341689021611057
+asambhav_2025,Asambhav,Regional,2025-11-21,0.33999999999999997,True,Language + comments,0.593848141675517
+gustaakh_ishq_2025,Gustaakh Ishq,Hindi,2025-11-28,1.2999999999999998,False,Language + comments,4.05714754637742
+tere_ishk_mein_2025,Tere Ishk Mein,Hindi,2025-11-28,52.0,False,Language + comments,23.774948746464805
+dhurandhar,Dhurandhar,Hindi,2025-12-05,103.0,False,Language + comments,33.220164094810904
+kis_kisko_pyaar_karoon_2_2025,Kis Kisko Pyaar Karoon 2,Hindi,2025-12-12,7.25,False,Language + comments,10.374754842314488
